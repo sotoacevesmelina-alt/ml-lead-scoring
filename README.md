@@ -1,4 +1,4 @@
-# 🎯 ML Lead Scoring System
+#  ML Lead Scoring System
 
 **A machine learning project that predicts B2B SaaS lead close probability with 82.5% accuracy**
 
@@ -8,7 +8,7 @@ Major: Marketing + Information Systems & Analytics | Minor: Business of Applied 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates end-to-end machine learning application for Sales Operations, from data generation to model deployment. The system predicts which leads are most likely to close based on 14 key features including company size, budget, engagement metrics, and buying signals.
 
@@ -21,7 +21,7 @@ This project demonstrates end-to-end machine learning application for Sales Oper
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ML-Lead-Scoring/
@@ -42,7 +42,7 @@ ML-Lead-Scoring/
 
 ---
 
-## 🎓 Skills Demonstrated
+##  Skills Demonstrated
 
 ### Technical Skills
 - **Machine Learning:** Logistic regression, model evaluation, hyperparameter tuning
@@ -58,7 +58,7 @@ ML-Lead-Scoring/
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 The model uses **14 predictive features**:
 
@@ -147,7 +147,7 @@ lead_data = {
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Confusion Matrix
 ```
@@ -171,7 +171,7 @@ Actual Lost       6    20
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 ### Projected Improvements
 - **+15% win rate** through better lead prioritization
@@ -185,7 +185,7 @@ If applied to 1,000 annual leads:
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 ### For Students
 - Portfolio project for Sales Ops / Analytics / Data Science roles
@@ -204,7 +204,7 @@ If applied to 1,000 annual leads:
 
 ---
 
-## 🔧 Technical Architecture
+## Technical Architecture
 
 1. **Data Generation:** Simulated realistic B2B SaaS dataset with outcome correlation
 2. **Feature Engineering:** Label encoding for categorical variables, standard scaling
@@ -214,7 +214,7 @@ If applied to 1,000 annual leads:
 
 ---
 
-## 📝 Files Explained
+##  Files Explained
 
 - **lead_scoring_dataset.csv:** Training data (600 leads with 18 columns)
 - **lead_scoring_model.py:** Python script that trains the model and generates visualizations
@@ -224,7 +224,7 @@ If applied to 1,000 annual leads:
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 1. **Retrain with real data:** Replace simulated data with actual CRM data
 2. **A/B test in production:** Compare ML-scored leads vs. traditional scoring
@@ -234,9 +234,9 @@ If applied to 1,000 annual leads:
 
 ---
 
-## 📬 Contact
+##  Contact
 
-**Melina Rodriguez**  
+**Melina Soto**  
 Loyola University Chicago - Quinlan School of Business  
 Major: Marketing + Information Systems & Analytics  
 Minor: Business of Applied AI  
@@ -251,7 +251,7 @@ This project is for portfolio/educational purposes. Feel free to use, modify, an
 
 ---
 
-## 🙏 Acknowledgments
+
 
 Built as a portfolio project to demonstrate:
 - Machine learning fundamentals
