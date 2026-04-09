@@ -1,0 +1,601 @@
+Lead_ID,Industry,Company_Size,Employee_Count,Lead_Source,Budget_Range,Decision_Timeline,Job_Title,Region,Email_Opens,Email_Clicks,Website_Visits,Pricing_Page_Views,Demo_Requested,Response_Time_Hours,Days_in_Pipeline,Deal_Value,Outcome
+L0001,Healthcare,1-50,7,Event,$10k-$50k,1-3 months,Sales Manager,International,1,0,2,1,0,72.0,98,0,Lost
+L0002,Consulting,501-1000,643,Cold Outreach,$100k+,3-6 months,VP Sales,Southeast,6,6,10,0,0,24.0,84,0,Lost
+L0003,Manufacturing,1-50,19,Content Download,<$10k,6+ months,Director Sales,Southwest,2,0,7,2,0,4.0,65,0,Lost
+L0004,Education,51-200,69,Partner,$50k-$100k,1-3 months,COO,International,7,2,14,3,1,72.0,105,52103,Won
+L0005,Real Estate,201-500,435,Referral,$10k-$50k,3-6 months,CEO,International,4,1,17,4,0,24.0,35,43392,Won
+L0006,Technology,1-50,25,LinkedIn,$10k-$50k,6+ months,Owner,Northeast,0,0,17,2,1,12.0,65,0,Lost
+L0007,Technology,201-500,279,Webinar,$10k-$50k,Immediate,COO,International,5,4,16,0,1,48.0,119,0,Lost
+L0008,Manufacturing,51-200,68,Website,$10k-$50k,Immediate,Director Sales,International,4,3,17,1,1,72.0,34,23182,Won
+L0009,Real Estate,201-500,211,Content Download,$100k+,Immediate,CEO,Southeast,7,3,0,0,0,4.0,49,246002,Won
+L0010,Media,51-200,99,Webinar,$10k-$50k,6+ months,CEO,West,13,5,13,3,0,0.5,19,0,Lost
+L0011,Technology,501-1000,717,Partner,<$10k,1-3 months,CEO,Southeast,8,7,7,0,1,72.0,76,5120,Won
+L0012,Finance,501-1000,700,Content Download,$100k+,1-3 months,VP Operations,Northeast,14,4,13,5,1,2.0,14,492154,Won
+L0013,Education,1-50,6,Website,$100k+,1-3 months,VP Sales,Southwest,7,6,3,4,0,0.5,81,236716,Won
+L0014,Retail,201-500,435,Cold Outreach,$50k-$100k,6+ months,Sales Manager,International,2,0,14,4,1,1.0,40,54508,Won
+L0015,Education,201-500,484,LinkedIn,$100k+,3-6 months,Owner,International,3,1,8,0,0,72.0,33,432523,Won
+L0016,Manufacturing,1000+,2366,Content Download,$50k-$100k,Immediate,Director Sales,International,4,2,5,5,1,72.0,21,85755,Won
+L0017,Education,1000+,2465,Webinar,$10k-$50k,6+ months,Sales Manager,Northeast,6,5,7,5,0,12.0,59,25514,Won
+L0018,Real Estate,1-50,11,LinkedIn,$50k-$100k,6+ months,CEO,Midwest,15,3,6,3,0,8.0,35,0,Lost
+L0019,Technology,51-200,181,Trade Show,$50k-$100k,3-6 months,Director Sales,Midwest,10,0,3,2,0,8.0,51,0,Lost
+L0020,Education,501-1000,501,Webinar,<$10k,6+ months,Owner,Southeast,6,2,13,0,1,12.0,22,7460,Won
+L0021,Real Estate,201-500,290,Trade Show,$50k-$100k,1-3 months,CEO,West,9,6,17,0,1,8.0,84,78952,Won
+L0022,Retail,1000+,4899,Content Download,$10k-$50k,Immediate,COO,Southwest,7,4,7,1,0,0.5,85,0,Lost
+L0023,Healthcare,501-1000,958,Trade Show,$10k-$50k,6+ months,CFO,West,3,3,7,1,1,72.0,115,39914,Won
+L0024,Consulting,1000+,4079,Partner,$100k+,6+ months,CTO,West,7,4,16,3,1,4.0,43,267619,Won
+L0025,Consulting,1-50,10,LinkedIn,$10k-$50k,1-3 months,VP Operations,International,10,8,14,3,0,4.0,105,11280,Won
+L0026,Media,1-50,48,Partner,$50k-$100k,6+ months,VP Operations,Southwest,8,6,15,0,0,12.0,99,0,Lost
+L0027,Finance,501-1000,830,LinkedIn,<$10k,6+ months,Owner,Southwest,4,3,5,0,0,24.0,50,0,Lost
+L0028,Real Estate,201-500,227,Trade Show,$50k-$100k,Immediate,CFO,Northeast,7,1,20,0,0,4.0,26,81035,Won
+L0029,Healthcare,1000+,2274,Cold Outreach,$100k+,3-6 months,Director Marketing,Southeast,3,0,9,4,1,24.0,16,465529,Won
+L0030,Manufacturing,1000+,3652,Referral,<$10k,3-6 months,CTO,West,10,0,13,3,0,24.0,113,8766,Won
+L0031,Consulting,201-500,366,Webinar,$100k+,6+ months,VP Operations,International,2,1,14,1,0,24.0,48,286030,Won
+L0032,Manufacturing,201-500,409,Event,$50k-$100k,Immediate,CTO,Southeast,7,7,20,5,1,48.0,35,70067,Won
+L0033,Transportation,201-500,339,Content Download,$50k-$100k,6+ months,CTO,Midwest,7,1,6,2,0,72.0,31,68120,Won
+L0034,Transportation,1000+,3900,Event,<$10k,1-3 months,COO,Southeast,4,2,1,0,1,2.0,20,5100,Won
+L0035,Media,501-1000,752,Partner,$10k-$50k,Immediate,COO,West,1,0,4,4,1,1.0,104,49735,Won
+L0036,Retail,1000+,1246,Trade Show,$100k+,6+ months,COO,Southwest,3,1,20,1,0,1.0,16,336193,Won
+L0037,Transportation,501-1000,852,Event,<$10k,1-3 months,COO,International,8,3,13,0,0,2.0,16,5488,Won
+L0038,Transportation,201-500,457,Content Download,<$10k,6+ months,COO,International,14,1,19,0,0,12.0,36,9712,Won
+L0039,Manufacturing,1000+,2785,Website,$10k-$50k,6+ months,CTO,International,15,1,15,2,0,12.0,27,36977,Won
+L0040,Manufacturing,501-1000,997,Webinar,<$10k,6+ months,Director Sales,Midwest,12,8,0,5,1,48.0,53,9083,Won
+L0041,Retail,201-500,215,Webinar,$10k-$50k,3-6 months,CFO,International,7,2,9,4,0,72.0,114,40241,Won
+L0042,Finance,501-1000,575,Event,$50k-$100k,6+ months,CFO,West,6,4,16,5,0,1.0,60,67509,Won
+L0043,Manufacturing,201-500,483,Content Download,$10k-$50k,6+ months,CTO,West,12,7,10,1,1,4.0,106,12860,Won
+L0044,Media,501-1000,948,Trade Show,$10k-$50k,6+ months,VP Sales,Southeast,14,1,16,3,0,2.0,26,0,Lost
+L0045,Healthcare,501-1000,989,Event,$50k-$100k,6+ months,Director Sales,Midwest,15,8,1,4,0,4.0,36,56451,Won
+L0046,Healthcare,501-1000,692,LinkedIn,$50k-$100k,Immediate,VP Sales,Midwest,4,1,16,3,0,2.0,55,88217,Won
+L0047,Retail,501-1000,538,Event,$100k+,3-6 months,VP Sales,West,11,4,20,3,1,8.0,56,299944,Won
+L0048,Transportation,201-500,226,Event,$50k-$100k,Immediate,VP Operations,Midwest,15,4,7,4,1,4.0,93,91121,Won
+L0049,Technology,201-500,413,Content Download,<$10k,3-6 months,Sales Manager,Northeast,4,4,11,4,1,8.0,112,8947,Won
+L0050,Healthcare,501-1000,508,Referral,$10k-$50k,1-3 months,VP Operations,Southwest,3,3,11,5,1,24.0,20,40898,Won
+L0051,Consulting,201-500,272,Cold Outreach,<$10k,6+ months,COO,International,1,1,15,0,0,4.0,65,8039,Won
+L0052,Finance,501-1000,728,Referral,$100k+,6+ months,COO,Northeast,7,5,3,5,0,72.0,14,164046,Won
+L0053,Media,1-50,9,Cold Outreach,<$10k,Immediate,Director Marketing,Southeast,6,4,6,1,1,2.0,42,6185,Won
+L0054,Finance,1-50,38,Website,$10k-$50k,Immediate,Director Marketing,Southeast,1,0,13,4,0,1.0,72,0,Lost
+L0055,Transportation,1-50,30,Content Download,$10k-$50k,Immediate,CTO,Midwest,12,6,3,3,1,1.0,25,18270,Won
+L0056,Transportation,1000+,3874,Partner,$100k+,3-6 months,CFO,Southwest,3,1,13,3,0,24.0,60,263852,Won
+L0057,Manufacturing,201-500,250,LinkedIn,$100k+,Immediate,Director Sales,Northeast,11,2,17,0,1,1.0,103,414787,Won
+L0058,Manufacturing,201-500,485,Referral,$10k-$50k,1-3 months,CFO,Southeast,8,3,13,4,0,8.0,104,32270,Won
+L0059,Finance,51-200,186,Trade Show,<$10k,1-3 months,VP Sales,Northeast,14,5,5,2,1,12.0,17,5430,Won
+L0060,Transportation,1-50,39,Referral,$50k-$100k,6+ months,VP Operations,West,3,2,13,0,0,48.0,35,53590,Won
+L0061,Retail,201-500,455,Cold Outreach,$10k-$50k,3-6 months,COO,Midwest,5,1,12,4,1,4.0,110,0,Lost
+L0062,Education,1-50,5,Trade Show,<$10k,6+ months,VP Sales,West,12,6,9,0,0,0.5,86,8769,Won
+L0063,Healthcare,51-200,137,Trade Show,$100k+,Immediate,VP Operations,Midwest,5,0,16,5,0,72.0,51,0,Lost
+L0064,Education,51-200,90,Cold Outreach,<$10k,1-3 months,COO,Southeast,15,7,18,4,1,12.0,26,8602,Won
+L0065,Manufacturing,201-500,230,Website,$50k-$100k,Immediate,COO,West,9,1,20,0,1,48.0,101,0,Lost
+L0066,Technology,501-1000,916,Cold Outreach,$50k-$100k,6+ months,CTO,Southeast,10,1,16,5,0,0.5,63,89964,Won
+L0067,Education,201-500,372,Event,$100k+,6+ months,Director Marketing,International,3,3,9,2,1,2.0,25,466204,Won
+L0068,Real Estate,51-200,185,Referral,$50k-$100k,6+ months,Director Marketing,Southeast,13,8,11,0,0,8.0,105,64846,Won
+L0069,Finance,1-50,9,Event,<$10k,Immediate,Director Marketing,Southwest,5,5,14,0,1,12.0,63,7334,Won
+L0070,Retail,201-500,396,Content Download,$10k-$50k,3-6 months,Owner,West,13,2,6,4,0,8.0,54,16723,Won
+L0071,Healthcare,201-500,247,Referral,$10k-$50k,3-6 months,CFO,Southwest,7,7,11,0,0,0.5,56,34570,Won
+L0072,Education,1-50,31,Partner,$10k-$50k,1-3 months,VP Sales,Midwest,0,0,0,2,0,2.0,74,0,Lost
+L0073,Real Estate,1-50,16,Event,$10k-$50k,3-6 months,Director Sales,Northeast,15,8,0,5,1,4.0,7,25765,Won
+L0074,Finance,1-50,33,Webinar,$50k-$100k,Immediate,CTO,Southwest,15,0,20,3,1,8.0,15,98034,Won
+L0075,Healthcare,1000+,2960,Partner,$10k-$50k,Immediate,Director Marketing,Southwest,5,1,2,5,1,0.5,32,30682,Won
+L0076,Real Estate,1000+,1509,Content Download,$50k-$100k,Immediate,CEO,Midwest,11,6,12,5,1,24.0,95,84031,Won
+L0077,Healthcare,501-1000,668,Referral,$100k+,1-3 months,CTO,Midwest,9,4,14,4,1,2.0,12,435266,Won
+L0078,Technology,1-50,39,Trade Show,$50k-$100k,1-3 months,VP Sales,Southeast,7,5,11,3,0,2.0,54,0,Lost
+L0079,Media,1-50,18,LinkedIn,$50k-$100k,6+ months,Director Marketing,International,5,3,16,3,1,1.0,64,95480,Won
+L0080,Retail,1-50,29,LinkedIn,<$10k,6+ months,Sales Manager,International,2,2,17,2,0,2.0,88,0,Lost
+L0081,Finance,201-500,214,Webinar,$10k-$50k,Immediate,CEO,Southeast,11,7,17,1,0,1.0,99,0,Lost
+L0082,Media,1000+,3785,Trade Show,$100k+,Immediate,Sales Manager,Midwest,11,2,17,5,0,2.0,14,259448,Won
+L0083,Finance,51-200,115,Partner,$10k-$50k,3-6 months,CTO,Midwest,8,2,20,2,1,72.0,82,0,Lost
+L0084,Transportation,51-200,198,LinkedIn,$50k-$100k,Immediate,VP Sales,Northeast,13,0,15,5,1,8.0,94,79723,Won
+L0085,Technology,51-200,87,Content Download,$100k+,6+ months,CFO,Southeast,10,5,12,1,0,72.0,66,229980,Won
+L0086,Finance,1-50,16,Website,$50k-$100k,6+ months,Owner,West,10,3,5,3,1,48.0,9,83124,Won
+L0087,Retail,51-200,171,Partner,<$10k,Immediate,COO,West,3,3,4,2,1,24.0,79,9602,Won
+L0088,Manufacturing,1-50,40,Trade Show,$100k+,3-6 months,Owner,International,12,5,10,4,0,2.0,71,171846,Won
+L0089,Education,501-1000,584,Webinar,$100k+,1-3 months,Owner,Southwest,9,5,16,4,1,8.0,49,261311,Won
+L0090,Technology,1000+,3953,Content Download,$50k-$100k,1-3 months,VP Sales,Southwest,12,2,7,0,0,4.0,26,76894,Won
+L0091,Transportation,501-1000,693,Website,$10k-$50k,1-3 months,CTO,Midwest,5,3,17,2,1,8.0,38,46574,Won
+L0092,Manufacturing,201-500,348,Cold Outreach,$100k+,3-6 months,CFO,Midwest,12,6,11,1,0,0.5,51,351175,Won
+L0093,Retail,51-200,112,Webinar,$50k-$100k,3-6 months,Sales Manager,Northeast,7,3,1,0,0,12.0,105,86067,Won
+L0094,Real Estate,501-1000,834,Content Download,$10k-$50k,3-6 months,Director Marketing,Midwest,7,0,5,3,0,0.5,70,28970,Won
+L0095,Manufacturing,1000+,4844,Referral,$50k-$100k,3-6 months,CFO,International,4,4,14,2,0,1.0,89,50923,Won
+L0096,Education,201-500,406,Cold Outreach,$10k-$50k,6+ months,VP Operations,Southwest,5,1,15,2,0,0.5,103,31602,Won
+L0097,Transportation,1-50,8,Event,$50k-$100k,1-3 months,VP Sales,International,9,1,20,2,1,4.0,26,74485,Won
+L0098,Consulting,501-1000,861,Webinar,$10k-$50k,1-3 months,Owner,Northeast,2,2,3,0,0,72.0,73,17617,Won
+L0099,Transportation,501-1000,789,Referral,$100k+,Immediate,CFO,Southeast,14,4,0,3,1,0.5,12,133428,Won
+L0100,Consulting,1-50,12,Referral,$100k+,Immediate,COO,West,12,7,12,3,0,72.0,22,0,Lost
+L0101,Finance,1000+,3178,Trade Show,$10k-$50k,1-3 months,VP Sales,Northeast,12,3,7,3,1,2.0,99,0,Lost
+L0102,Healthcare,1-50,7,Trade Show,<$10k,1-3 months,CEO,Northeast,1,0,1,3,1,4.0,106,0,Lost
+L0103,Technology,51-200,133,Webinar,$50k-$100k,1-3 months,Owner,Midwest,4,4,7,3,1,8.0,119,0,Lost
+L0104,Finance,501-1000,664,Webinar,$100k+,Immediate,Director Marketing,International,13,6,4,2,1,2.0,115,175681,Won
+L0105,Media,1-50,9,Webinar,$100k+,6+ months,CTO,Southwest,10,1,14,2,0,72.0,41,120734,Won
+L0106,Healthcare,51-200,54,Webinar,$10k-$50k,6+ months,CEO,Midwest,3,3,7,5,1,4.0,48,34947,Won
+L0107,Education,201-500,364,Event,$50k-$100k,6+ months,CFO,Northeast,11,5,13,0,1,4.0,77,97186,Won
+L0108,Manufacturing,51-200,178,Cold Outreach,$50k-$100k,1-3 months,VP Operations,Southwest,10,4,15,5,1,48.0,28,82002,Won
+L0109,Consulting,1-50,27,Webinar,<$10k,Immediate,VP Sales,Northeast,4,0,6,4,1,12.0,85,0,Lost
+L0110,Media,501-1000,647,Website,<$10k,6+ months,VP Sales,Northeast,13,2,3,0,1,2.0,39,0,Lost
+L0111,Education,201-500,316,Trade Show,<$10k,3-6 months,VP Operations,West,2,2,20,0,0,24.0,14,0,Lost
+L0112,Technology,51-200,186,Referral,$100k+,6+ months,Director Marketing,Southwest,15,4,1,0,1,8.0,11,208610,Won
+L0113,Transportation,51-200,196,Trade Show,<$10k,3-6 months,Sales Manager,Southwest,10,6,4,5,1,1.0,13,0,Lost
+L0114,Healthcare,501-1000,516,Cold Outreach,<$10k,3-6 months,Owner,Southwest,8,7,15,1,0,72.0,94,9799,Won
+L0115,Manufacturing,51-200,90,Referral,<$10k,3-6 months,Sales Manager,West,3,0,0,2,0,12.0,18,6535,Won
+L0116,Consulting,1000+,2577,Trade Show,<$10k,Immediate,Director Sales,Midwest,0,0,13,3,0,72.0,80,0,Lost
+L0117,Consulting,51-200,177,Trade Show,$10k-$50k,1-3 months,COO,Midwest,13,4,13,2,1,1.0,99,0,Lost
+L0118,Media,1000+,3540,Cold Outreach,$100k+,Immediate,Sales Manager,Midwest,12,5,14,2,1,2.0,95,193133,Won
+L0119,Real Estate,201-500,387,Event,$100k+,1-3 months,Director Marketing,West,6,4,17,1,0,48.0,109,452834,Won
+L0120,Media,51-200,147,Event,$10k-$50k,3-6 months,Sales Manager,International,15,6,17,4,1,24.0,53,48916,Won
+L0121,Healthcare,51-200,153,Partner,$10k-$50k,Immediate,Owner,International,13,1,0,0,1,4.0,81,24485,Won
+L0122,Real Estate,501-1000,972,Webinar,$10k-$50k,3-6 months,VP Sales,West,2,0,4,2,0,12.0,68,41205,Won
+L0123,Media,201-500,285,Referral,$50k-$100k,Immediate,Director Sales,Northeast,7,2,17,1,1,72.0,109,62215,Won
+L0124,Real Estate,501-1000,606,Website,$10k-$50k,6+ months,Owner,West,2,2,3,4,0,12.0,40,44584,Won
+L0125,Transportation,501-1000,971,Trade Show,<$10k,3-6 months,Director Marketing,West,2,2,4,2,0,4.0,95,6158,Won
+L0126,Transportation,51-200,95,Trade Show,$100k+,1-3 months,CFO,International,9,2,5,2,1,0.5,69,394430,Won
+L0127,Consulting,501-1000,516,Trade Show,$100k+,6+ months,CFO,West,7,4,1,2,0,72.0,79,0,Lost
+L0128,Media,1000+,3944,Webinar,<$10k,Immediate,COO,Southwest,14,8,6,3,0,4.0,64,0,Lost
+L0129,Manufacturing,201-500,420,Referral,$100k+,Immediate,CEO,Southeast,4,1,6,0,1,72.0,48,240164,Won
+L0130,Consulting,1-50,9,LinkedIn,$100k+,Immediate,COO,International,10,3,12,3,0,8.0,16,493112,Won
+L0131,Manufacturing,201-500,435,Content Download,$100k+,3-6 months,Owner,Northeast,11,1,17,3,0,24.0,48,403003,Won
+L0132,Finance,1000+,4806,Content Download,$50k-$100k,Immediate,VP Sales,Northeast,5,3,14,0,1,4.0,119,67958,Won
+L0133,Education,201-500,320,Referral,$50k-$100k,1-3 months,VP Sales,West,2,2,3,0,0,48.0,73,0,Lost
+L0134,Media,1-50,9,Website,$50k-$100k,Immediate,VP Operations,International,2,2,3,0,1,12.0,106,54483,Won
+L0135,Transportation,1-50,48,LinkedIn,$100k+,3-6 months,CEO,International,14,3,2,0,0,1.0,61,245210,Won
+L0136,Healthcare,51-200,181,Webinar,$50k-$100k,Immediate,COO,Southeast,9,0,7,3,1,1.0,16,73664,Won
+L0137,Finance,501-1000,635,Trade Show,$50k-$100k,1-3 months,CFO,Northeast,1,0,12,4,1,72.0,58,85235,Won
+L0138,Finance,201-500,368,Referral,$50k-$100k,Immediate,CTO,Southeast,2,1,13,5,0,0.5,21,53606,Won
+L0139,Finance,1-50,23,Website,$10k-$50k,Immediate,Sales Manager,West,8,2,11,1,1,1.0,110,27824,Won
+L0140,Manufacturing,1000+,2506,Referral,$100k+,6+ months,CTO,Midwest,5,2,3,4,1,1.0,12,347340,Won
+L0141,Education,501-1000,665,LinkedIn,$10k-$50k,Immediate,CTO,International,13,5,8,0,1,1.0,29,43801,Won
+L0142,Healthcare,501-1000,603,Event,$50k-$100k,3-6 months,Director Sales,Southwest,9,3,14,2,1,48.0,100,59867,Won
+L0143,Real Estate,1-50,49,Cold Outreach,$50k-$100k,Immediate,Director Marketing,Northeast,7,6,15,0,0,8.0,115,0,Lost
+L0144,Consulting,501-1000,539,Partner,$100k+,Immediate,Owner,Northeast,1,1,4,1,1,8.0,57,242583,Won
+L0145,Retail,1-50,11,Cold Outreach,$10k-$50k,Immediate,Sales Manager,Northeast,3,2,6,3,1,48.0,27,49538,Won
+L0146,Education,51-200,127,Referral,$10k-$50k,3-6 months,VP Operations,Southwest,0,0,14,4,1,72.0,109,17959,Won
+L0147,Retail,51-200,117,Cold Outreach,$100k+,3-6 months,Director Sales,Southwest,6,5,14,1,0,12.0,13,0,Lost
+L0148,Finance,1000+,1879,Trade Show,$100k+,6+ months,VP Sales,West,5,2,8,3,0,0.5,89,388719,Won
+L0149,Media,1-50,13,Referral,$50k-$100k,6+ months,Sales Manager,West,0,0,11,3,1,48.0,48,0,Lost
+L0150,Real Estate,201-500,230,LinkedIn,<$10k,3-6 months,Owner,Southeast,11,3,5,0,0,4.0,101,0,Lost
+L0151,Technology,51-200,132,Trade Show,$50k-$100k,1-3 months,Sales Manager,Southeast,0,0,18,4,0,4.0,70,61505,Won
+L0152,Technology,1-50,31,Website,$10k-$50k,1-3 months,VP Sales,Southwest,6,6,4,2,0,12.0,97,17269,Won
+L0153,Healthcare,201-500,424,Trade Show,<$10k,3-6 months,COO,Midwest,15,5,5,5,1,12.0,29,8099,Won
+L0154,Manufacturing,51-200,132,LinkedIn,<$10k,6+ months,Owner,Northeast,3,3,4,2,1,1.0,28,0,Lost
+L0155,Healthcare,201-500,380,Content Download,<$10k,3-6 months,CEO,Southeast,3,0,1,3,0,24.0,70,0,Lost
+L0156,Real Estate,201-500,284,Webinar,$100k+,Immediate,CFO,Southwest,1,1,0,2,1,1.0,55,148813,Won
+L0157,Education,1000+,2356,Content Download,<$10k,6+ months,Sales Manager,Southwest,6,1,13,5,1,72.0,37,5785,Won
+L0158,Consulting,501-1000,603,LinkedIn,<$10k,3-6 months,VP Sales,West,0,0,5,5,0,1.0,107,8256,Won
+L0159,Manufacturing,1-50,24,Webinar,$100k+,1-3 months,Director Marketing,West,14,7,8,1,1,0.5,19,317048,Won
+L0160,Transportation,51-200,172,Webinar,<$10k,6+ months,CTO,West,15,4,2,3,1,0.5,109,0,Lost
+L0161,Transportation,1000+,2734,LinkedIn,<$10k,6+ months,Sales Manager,Southeast,2,2,13,1,1,2.0,100,5548,Won
+L0162,Real Estate,1000+,2697,Partner,$50k-$100k,6+ months,VP Sales,International,4,1,18,4,1,1.0,19,72535,Won
+L0163,Manufacturing,501-1000,520,Content Download,$100k+,Immediate,Sales Manager,Midwest,10,3,1,5,1,8.0,111,357750,Won
+L0164,Healthcare,51-200,157,LinkedIn,$50k-$100k,6+ months,Director Marketing,Midwest,6,6,13,5,0,72.0,72,70389,Won
+L0165,Consulting,501-1000,734,LinkedIn,<$10k,1-3 months,CEO,Southeast,11,3,8,2,1,72.0,94,0,Lost
+L0166,Technology,51-200,192,Partner,$100k+,6+ months,Sales Manager,West,8,1,9,0,0,0.5,34,0,Lost
+L0167,Retail,51-200,53,Cold Outreach,$50k-$100k,6+ months,CTO,Northeast,5,4,0,1,0,8.0,42,0,Lost
+L0168,Real Estate,501-1000,800,Partner,$100k+,3-6 months,CEO,West,0,0,17,5,1,8.0,15,270465,Won
+L0169,Manufacturing,201-500,364,Event,$10k-$50k,1-3 months,CTO,Southeast,0,0,9,2,1,24.0,97,22446,Won
+L0170,Retail,1000+,2928,Content Download,$50k-$100k,3-6 months,Sales Manager,International,4,2,17,1,1,12.0,35,71713,Won
+L0171,Manufacturing,1000+,3542,Event,$100k+,Immediate,CFO,Northeast,2,1,6,4,0,24.0,118,279657,Won
+L0172,Real Estate,1000+,3598,Content Download,$10k-$50k,3-6 months,Sales Manager,Northeast,1,0,14,2,0,2.0,107,18480,Won
+L0173,Real Estate,501-1000,987,Trade Show,$100k+,6+ months,VP Sales,Northeast,10,8,6,0,1,0.5,95,153848,Won
+L0174,Real Estate,1000+,3146,Event,$10k-$50k,Immediate,VP Sales,Midwest,10,6,4,2,1,12.0,110,11253,Won
+L0175,Finance,51-200,60,Website,$10k-$50k,Immediate,Director Marketing,International,8,8,19,0,0,1.0,95,37313,Won
+L0176,Healthcare,1000+,3710,Event,$100k+,1-3 months,CEO,International,3,2,19,4,0,24.0,99,155712,Won
+L0177,Media,51-200,126,Cold Outreach,$50k-$100k,1-3 months,Director Marketing,International,15,3,15,2,0,0.5,21,59774,Won
+L0178,Consulting,1-50,17,Referral,$50k-$100k,1-3 months,CFO,Midwest,5,0,9,2,1,24.0,104,59069,Won
+L0179,Finance,201-500,259,Partner,$100k+,3-6 months,Director Sales,Midwest,14,4,12,5,0,24.0,21,154375,Won
+L0180,Real Estate,1000+,3803,Content Download,$100k+,1-3 months,Owner,West,4,3,15,0,1,48.0,47,402330,Won
+L0181,Transportation,51-200,149,Partner,<$10k,6+ months,CEO,West,1,0,20,1,1,48.0,16,0,Lost
+L0182,Media,201-500,394,Cold Outreach,$50k-$100k,3-6 months,VP Sales,Southwest,7,1,14,3,1,48.0,47,98839,Won
+L0183,Technology,1-50,1,Trade Show,$100k+,Immediate,CTO,Southwest,6,5,14,2,1,0.5,49,475735,Won
+L0184,Education,501-1000,768,Referral,<$10k,1-3 months,VP Sales,Midwest,3,0,5,3,0,24.0,31,0,Lost
+L0185,Healthcare,501-1000,975,Cold Outreach,$100k+,1-3 months,Director Marketing,Northeast,3,3,14,5,0,48.0,77,366512,Won
+L0186,Finance,1000+,2575,LinkedIn,$10k-$50k,Immediate,VP Operations,International,13,3,8,3,1,8.0,59,43573,Won
+L0187,Consulting,201-500,377,Webinar,$10k-$50k,1-3 months,CEO,Southwest,4,1,16,4,1,1.0,81,37359,Won
+L0188,Consulting,201-500,229,Trade Show,<$10k,Immediate,VP Sales,West,5,2,8,1,0,8.0,52,0,Lost
+L0189,Media,1-50,45,Webinar,$10k-$50k,6+ months,CEO,Southwest,12,6,10,4,0,0.5,118,24781,Won
+L0190,Education,1000+,1711,Webinar,$10k-$50k,1-3 months,COO,West,3,3,1,3,1,72.0,115,10369,Won
+L0191,Finance,1-50,20,LinkedIn,$50k-$100k,Immediate,Owner,International,2,2,10,4,0,2.0,27,85195,Won
+L0192,Healthcare,201-500,472,Cold Outreach,$10k-$50k,3-6 months,Director Marketing,Midwest,0,0,11,3,0,4.0,48,17430,Won
+L0193,Consulting,201-500,365,Website,$50k-$100k,6+ months,CFO,Northeast,3,1,17,4,0,1.0,34,0,Lost
+L0194,Real Estate,1-50,30,Cold Outreach,$100k+,Immediate,Sales Manager,Northeast,1,0,8,4,0,4.0,64,108855,Won
+L0195,Real Estate,1-50,45,Webinar,<$10k,Immediate,Owner,Northeast,3,2,9,4,0,8.0,57,5252,Won
+L0196,Retail,51-200,146,Trade Show,$50k-$100k,1-3 months,COO,International,4,0,1,0,1,72.0,33,77043,Won
+L0197,Consulting,51-200,80,LinkedIn,$10k-$50k,1-3 months,Owner,Midwest,1,1,20,4,0,8.0,32,41928,Won
+L0198,Finance,51-200,166,Referral,$50k-$100k,Immediate,CEO,Midwest,9,2,18,4,1,12.0,47,96674,Won
+L0199,Real Estate,201-500,357,Partner,$10k-$50k,3-6 months,CFO,West,3,1,20,4,0,8.0,75,27251,Won
+L0200,Healthcare,1-50,3,Website,<$10k,6+ months,Owner,Southeast,15,2,11,3,0,8.0,18,0,Lost
+L0201,Real Estate,201-500,272,Webinar,<$10k,1-3 months,Owner,International,5,4,18,5,0,48.0,104,8994,Won
+L0202,Education,51-200,62,Website,$10k-$50k,3-6 months,VP Operations,West,3,2,8,4,1,2.0,82,43860,Won
+L0203,Retail,1000+,1569,Trade Show,$50k-$100k,3-6 months,CFO,West,14,2,7,0,1,8.0,53,93326,Won
+L0204,Real Estate,201-500,411,Referral,$100k+,6+ months,CFO,Southeast,1,0,18,4,0,2.0,80,235402,Won
+L0205,Finance,1000+,1898,Trade Show,<$10k,3-6 months,Director Sales,Southeast,13,2,18,1,1,72.0,50,0,Lost
+L0206,Media,1000+,4520,Referral,$10k-$50k,6+ months,VP Operations,Southeast,13,2,19,0,0,48.0,119,42986,Won
+L0207,Healthcare,501-1000,720,LinkedIn,<$10k,6+ months,CTO,West,15,6,11,4,1,1.0,105,6904,Won
+L0208,Consulting,501-1000,504,Event,$10k-$50k,Immediate,VP Sales,Southwest,6,5,10,3,1,1.0,39,45134,Won
+L0209,Education,1000+,3290,Event,$100k+,1-3 months,VP Operations,Southwest,15,4,9,4,1,24.0,91,466640,Won
+L0210,Finance,1-50,45,Cold Outreach,$100k+,3-6 months,CTO,Southwest,0,0,4,3,1,24.0,54,479843,Won
+L0211,Real Estate,501-1000,604,Webinar,$50k-$100k,Immediate,Sales Manager,International,9,3,1,4,0,2.0,90,55691,Won
+L0212,Real Estate,201-500,247,Trade Show,$100k+,1-3 months,CTO,Northeast,11,5,8,1,0,48.0,40,155818,Won
+L0213,Consulting,1-50,17,Webinar,$50k-$100k,3-6 months,Director Sales,Southwest,14,6,18,3,0,12.0,65,81586,Won
+L0214,Manufacturing,1-50,23,Trade Show,$10k-$50k,1-3 months,Director Marketing,West,8,3,9,0,1,12.0,67,0,Lost
+L0215,Education,201-500,321,Cold Outreach,$50k-$100k,1-3 months,CEO,West,8,3,7,1,0,12.0,17,85486,Won
+L0216,Media,201-500,344,Partner,$100k+,3-6 months,CFO,Southeast,4,0,16,3,0,72.0,117,466081,Won
+L0217,Consulting,501-1000,686,Partner,<$10k,Immediate,CEO,West,8,2,17,2,0,8.0,53,6506,Won
+L0218,Real Estate,201-500,495,Partner,$100k+,3-6 months,CFO,Southeast,3,2,7,4,0,24.0,101,192593,Won
+L0219,Real Estate,501-1000,704,LinkedIn,$50k-$100k,6+ months,COO,Midwest,5,0,6,2,0,1.0,53,86535,Won
+L0220,Education,1-50,37,Trade Show,<$10k,3-6 months,Owner,Southeast,9,5,10,5,1,48.0,17,8121,Won
+L0221,Finance,51-200,138,Partner,$100k+,6+ months,Director Sales,Northeast,9,4,19,5,0,8.0,53,317049,Won
+L0222,Finance,51-200,71,Website,$10k-$50k,1-3 months,COO,International,3,0,2,3,0,0.5,17,27200,Won
+L0223,Healthcare,501-1000,770,Event,$10k-$50k,1-3 months,COO,West,5,0,1,5,1,12.0,118,27852,Won
+L0224,Finance,1000+,2422,LinkedIn,$100k+,6+ months,CTO,International,15,8,7,0,0,8.0,45,497564,Won
+L0225,Finance,201-500,421,Event,$100k+,Immediate,CFO,West,7,0,17,2,0,24.0,38,215653,Won
+L0226,Manufacturing,1-50,48,Trade Show,$10k-$50k,3-6 months,COO,International,2,0,4,2,0,48.0,86,22306,Won
+L0227,Finance,1-50,18,Webinar,<$10k,1-3 months,Director Sales,Midwest,7,1,4,0,1,4.0,109,0,Lost
+L0228,Media,201-500,401,Content Download,<$10k,3-6 months,Director Sales,Southeast,15,2,6,2,0,0.5,38,0,Lost
+L0229,Real Estate,501-1000,841,Cold Outreach,<$10k,1-3 months,CFO,International,15,6,9,2,0,0.5,22,7075,Won
+L0230,Retail,201-500,208,Website,$10k-$50k,Immediate,CEO,International,8,1,12,1,0,0.5,95,20157,Won
+L0231,Retail,51-200,90,Content Download,<$10k,3-6 months,VP Sales,Northeast,4,3,7,2,1,12.0,31,5174,Won
+L0232,Finance,201-500,298,Website,$100k+,6+ months,CTO,Midwest,11,5,14,2,1,72.0,64,292472,Won
+L0233,Media,1-50,24,Webinar,$100k+,1-3 months,VP Sales,Southwest,12,3,16,5,1,72.0,59,374307,Won
+L0234,Healthcare,1-50,32,LinkedIn,$10k-$50k,Immediate,CEO,Northeast,12,7,16,4,1,0.5,16,23679,Won
+L0235,Healthcare,501-1000,521,Website,$50k-$100k,6+ months,Director Marketing,International,2,1,2,1,1,1.0,56,84484,Won
+L0236,Retail,1000+,1426,LinkedIn,$100k+,Immediate,Owner,Midwest,5,1,17,3,1,2.0,52,294888,Won
+L0237,Real Estate,501-1000,993,Partner,$10k-$50k,1-3 months,VP Operations,Southwest,14,6,0,5,0,8.0,120,10430,Won
+L0238,Retail,201-500,280,Website,$50k-$100k,1-3 months,Director Sales,Northeast,11,3,7,2,1,1.0,34,81623,Won
+L0239,Media,1000+,4603,Referral,$50k-$100k,Immediate,Owner,West,13,6,3,1,0,24.0,47,59802,Won
+L0240,Consulting,51-200,180,LinkedIn,<$10k,6+ months,CFO,Southwest,9,6,4,1,0,1.0,77,0,Lost
+L0241,Real Estate,201-500,302,Referral,$100k+,6+ months,Sales Manager,Southeast,6,4,19,5,1,4.0,62,158998,Won
+L0242,Real Estate,501-1000,587,Partner,$50k-$100k,1-3 months,Director Marketing,Midwest,14,2,14,0,0,4.0,100,98469,Won
+L0243,Retail,1000+,1093,LinkedIn,$50k-$100k,Immediate,Director Marketing,International,10,3,17,1,0,72.0,68,74681,Won
+L0244,Consulting,1-50,45,Event,$10k-$50k,Immediate,COO,Southeast,0,0,12,5,1,12.0,118,25149,Won
+L0245,Healthcare,201-500,212,Content Download,<$10k,1-3 months,CEO,Southwest,9,5,15,3,0,0.5,87,7476,Won
+L0246,Technology,201-500,271,Trade Show,<$10k,3-6 months,CEO,Southeast,12,8,19,5,1,4.0,61,7559,Won
+L0247,Consulting,51-200,185,Cold Outreach,$10k-$50k,1-3 months,Sales Manager,Midwest,4,4,5,2,0,72.0,30,0,Lost
+L0248,Education,51-200,121,Website,$50k-$100k,6+ months,VP Operations,Midwest,3,1,5,0,1,8.0,83,95047,Won
+L0249,Education,1-50,25,Content Download,$10k-$50k,6+ months,Director Marketing,Southeast,6,1,1,3,0,8.0,92,23406,Won
+L0250,Media,1000+,2281,Content Download,$50k-$100k,6+ months,CEO,West,12,8,16,5,1,0.5,112,83993,Won
+L0251,Real Estate,1-50,29,Webinar,$100k+,Immediate,CEO,Midwest,9,7,5,3,1,0.5,66,362488,Won
+L0252,Healthcare,51-200,57,Webinar,$10k-$50k,6+ months,VP Operations,Midwest,6,3,2,2,0,2.0,21,33785,Won
+L0253,Real Estate,1000+,4558,LinkedIn,$100k+,6+ months,VP Sales,Southeast,4,1,1,3,0,8.0,43,0,Lost
+L0254,Finance,1-50,1,LinkedIn,$10k-$50k,Immediate,Owner,Midwest,0,0,7,1,1,48.0,83,26037,Won
+L0255,Transportation,1000+,4497,Cold Outreach,<$10k,1-3 months,Sales Manager,Northeast,1,1,10,0,0,1.0,93,7329,Won
+L0256,Finance,501-1000,889,Partner,<$10k,Immediate,COO,Midwest,2,1,15,1,0,8.0,33,6712,Won
+L0257,Consulting,1-50,17,Content Download,$50k-$100k,6+ months,Owner,Midwest,4,4,18,3,1,48.0,85,62684,Won
+L0258,Healthcare,1-50,27,Content Download,<$10k,1-3 months,Owner,West,6,0,20,1,1,8.0,71,9505,Won
+L0259,Education,201-500,443,Trade Show,<$10k,1-3 months,CEO,Midwest,4,3,4,5,1,72.0,111,8391,Won
+L0260,Transportation,201-500,234,Webinar,<$10k,1-3 months,Owner,International,8,0,10,3,0,24.0,107,7525,Won
+L0261,Manufacturing,501-1000,655,Referral,$100k+,1-3 months,Director Marketing,West,3,2,1,1,0,48.0,71,353478,Won
+L0262,Consulting,201-500,219,Partner,$10k-$50k,Immediate,CTO,International,3,0,9,0,0,12.0,73,11473,Won
+L0263,Manufacturing,51-200,132,Partner,$10k-$50k,1-3 months,COO,Midwest,8,2,5,2,0,0.5,20,45555,Won
+L0264,Education,201-500,477,LinkedIn,$50k-$100k,1-3 months,Sales Manager,Northeast,4,0,15,5,0,1.0,57,88846,Won
+L0265,Media,1000+,4779,Partner,$50k-$100k,3-6 months,CEO,International,14,2,2,5,0,1.0,97,65184,Won
+L0266,Finance,1000+,2996,Event,$50k-$100k,6+ months,Sales Manager,International,0,0,15,0,0,48.0,105,87662,Won
+L0267,Consulting,1-50,5,Trade Show,<$10k,3-6 months,CTO,International,13,3,19,1,1,2.0,50,6705,Won
+L0268,Transportation,201-500,450,Webinar,$10k-$50k,1-3 months,Director Sales,International,14,5,17,0,1,2.0,83,49086,Won
+L0269,Media,1-50,1,Referral,$10k-$50k,1-3 months,Owner,International,9,6,19,4,1,4.0,45,29958,Won
+L0270,Education,1-50,24,Website,$100k+,1-3 months,COO,Northeast,11,1,9,0,0,24.0,47,328164,Won
+L0271,Consulting,51-200,143,LinkedIn,$100k+,1-3 months,CEO,Southwest,4,1,0,0,0,2.0,62,436720,Won
+L0272,Real Estate,501-1000,682,Trade Show,$10k-$50k,6+ months,CTO,West,5,3,19,0,1,48.0,71,36924,Won
+L0273,Education,1-50,31,Website,$100k+,3-6 months,Director Sales,Southwest,8,7,16,0,1,1.0,91,263839,Won
+L0274,Transportation,1-50,31,Partner,<$10k,6+ months,CFO,Southwest,9,4,5,0,1,8.0,14,8876,Won
+L0275,Technology,201-500,343,Website,$50k-$100k,6+ months,Director Sales,Southeast,8,4,8,0,1,1.0,101,0,Lost
+L0276,Finance,501-1000,676,Partner,$10k-$50k,3-6 months,CEO,West,4,4,4,3,0,24.0,88,23818,Won
+L0277,Education,1-50,26,Event,<$10k,Immediate,Sales Manager,West,7,6,12,3,1,2.0,43,8676,Won
+L0278,Consulting,1-50,18,Referral,$50k-$100k,6+ months,Owner,International,3,2,20,4,0,48.0,100,84075,Won
+L0279,Finance,201-500,469,Webinar,<$10k,Immediate,Director Sales,Northeast,14,5,7,5,1,8.0,18,5465,Won
+L0280,Transportation,1-50,49,Referral,<$10k,1-3 months,VP Operations,International,5,2,9,3,0,48.0,61,7649,Won
+L0281,Manufacturing,1-50,17,Trade Show,$100k+,3-6 months,VP Sales,Midwest,6,4,12,1,1,48.0,62,475075,Won
+L0282,Manufacturing,1-50,17,Website,<$10k,Immediate,Owner,International,4,0,1,5,1,8.0,57,9707,Won
+L0283,Media,501-1000,563,Trade Show,$100k+,Immediate,CTO,Southeast,11,5,9,3,0,1.0,50,252021,Won
+L0284,Retail,51-200,150,Webinar,<$10k,6+ months,CEO,Midwest,11,7,2,5,0,4.0,99,9857,Won
+L0285,Healthcare,1000+,3953,Event,$100k+,6+ months,VP Sales,Northeast,1,1,3,1,1,72.0,118,403744,Won
+L0286,Retail,1-50,40,Website,$10k-$50k,6+ months,VP Sales,West,4,0,5,5,0,8.0,85,48734,Won
+L0287,Healthcare,501-1000,562,Cold Outreach,<$10k,1-3 months,VP Operations,Midwest,4,2,6,0,0,12.0,103,0,Lost
+L0288,Real Estate,51-200,85,Partner,$10k-$50k,6+ months,CEO,Southwest,12,2,0,3,0,0.5,97,0,Lost
+L0289,Transportation,201-500,468,Trade Show,$100k+,1-3 months,CEO,Southeast,7,2,19,5,0,2.0,18,102396,Won
+L0290,Consulting,51-200,189,Cold Outreach,<$10k,Immediate,Owner,Midwest,6,2,1,1,0,2.0,67,0,Lost
+L0291,Media,51-200,162,LinkedIn,<$10k,Immediate,Director Marketing,Midwest,14,0,3,5,0,72.0,69,0,Lost
+L0292,Consulting,1-50,21,Referral,$10k-$50k,6+ months,Owner,Southwest,10,3,3,2,0,1.0,32,24461,Won
+L0293,Transportation,501-1000,692,Website,$100k+,1-3 months,CEO,Southwest,14,3,20,2,1,4.0,79,158253,Won
+L0294,Media,501-1000,796,Trade Show,$10k-$50k,3-6 months,CEO,Midwest,7,1,13,4,0,4.0,42,38056,Won
+L0295,Retail,201-500,221,Trade Show,$10k-$50k,1-3 months,Owner,Northeast,1,1,16,3,1,1.0,78,36648,Won
+L0296,Education,201-500,436,Cold Outreach,<$10k,Immediate,CFO,International,0,0,14,1,1,2.0,66,5011,Won
+L0297,Education,1000+,1848,Website,$50k-$100k,6+ months,COO,International,2,2,10,5,0,72.0,120,75097,Won
+L0298,Media,1000+,4168,Website,$50k-$100k,3-6 months,Sales Manager,International,6,1,10,1,1,1.0,103,99359,Won
+L0299,Retail,201-500,377,Partner,$50k-$100k,6+ months,COO,Northeast,3,3,17,5,1,8.0,93,80007,Won
+L0300,Healthcare,501-1000,755,LinkedIn,$50k-$100k,Immediate,Director Sales,Southeast,6,4,20,0,1,24.0,23,77533,Won
+L0301,Technology,201-500,411,Cold Outreach,<$10k,Immediate,CEO,Southwest,10,7,18,5,1,48.0,108,7510,Won
+L0302,Media,201-500,283,Event,<$10k,1-3 months,Director Marketing,Midwest,9,2,5,5,0,2.0,47,9706,Won
+L0303,Education,51-200,165,Cold Outreach,<$10k,3-6 months,Director Marketing,Southeast,9,1,0,3,0,2.0,26,0,Lost
+L0304,Technology,1000+,3315,Webinar,$50k-$100k,3-6 months,CFO,Midwest,14,5,3,5,0,0.5,46,90469,Won
+L0305,Media,201-500,470,Referral,$50k-$100k,Immediate,Owner,International,8,3,0,0,1,1.0,69,89654,Won
+L0306,Technology,201-500,346,Trade Show,$10k-$50k,6+ months,Director Marketing,West,9,7,17,0,0,48.0,63,20734,Won
+L0307,Real Estate,51-200,136,Referral,$10k-$50k,1-3 months,COO,West,12,1,0,3,1,24.0,79,23058,Won
+L0308,Manufacturing,1000+,1109,Content Download,<$10k,3-6 months,Owner,Midwest,0,0,8,2,1,48.0,43,0,Lost
+L0309,Real Estate,51-200,68,Content Download,$10k-$50k,Immediate,Director Sales,Midwest,13,4,20,5,1,1.0,9,20672,Won
+L0310,Finance,201-500,415,Content Download,$10k-$50k,3-6 months,Sales Manager,Northeast,11,0,9,2,1,1.0,30,0,Lost
+L0311,Healthcare,1000+,3375,LinkedIn,$50k-$100k,3-6 months,COO,Midwest,11,2,0,1,1,8.0,50,64278,Won
+L0312,Consulting,51-200,84,Cold Outreach,<$10k,6+ months,CFO,Northeast,9,5,4,3,1,72.0,97,7495,Won
+L0313,Retail,51-200,71,LinkedIn,$10k-$50k,3-6 months,Sales Manager,Southeast,3,0,0,3,0,0.5,91,48874,Won
+L0314,Healthcare,201-500,303,Website,<$10k,3-6 months,VP Sales,Northeast,11,0,2,1,1,8.0,27,9101,Won
+L0315,Healthcare,1-50,49,Website,$10k-$50k,1-3 months,COO,Southeast,3,1,16,5,1,12.0,93,21852,Won
+L0316,Real Estate,51-200,170,Webinar,$10k-$50k,6+ months,Director Sales,Midwest,15,5,9,4,1,0.5,56,39946,Won
+L0317,Manufacturing,501-1000,592,Cold Outreach,$100k+,3-6 months,VP Operations,Southeast,15,1,12,3,1,1.0,95,188459,Won
+L0318,Healthcare,201-500,418,Cold Outreach,$50k-$100k,1-3 months,Owner,West,8,4,20,3,1,48.0,69,59658,Won
+L0319,Healthcare,1-50,9,Event,$100k+,6+ months,CEO,International,2,1,0,1,0,12.0,19,0,Lost
+L0320,Healthcare,1000+,3221,Content Download,$100k+,1-3 months,COO,International,10,8,17,0,0,24.0,64,340992,Won
+L0321,Technology,1-50,9,LinkedIn,$50k-$100k,1-3 months,CFO,West,3,3,17,5,1,48.0,14,82420,Won
+L0322,Real Estate,1000+,2500,Partner,$50k-$100k,3-6 months,VP Sales,Northeast,11,0,20,2,0,1.0,59,0,Lost
+L0323,Education,1-50,6,Cold Outreach,$10k-$50k,1-3 months,COO,Southwest,5,0,17,2,0,48.0,72,0,Lost
+L0324,Real Estate,201-500,366,Website,$100k+,Immediate,Director Marketing,West,15,1,6,2,1,72.0,28,205779,Won
+L0325,Media,1-50,20,Webinar,$10k-$50k,3-6 months,COO,Northeast,2,2,18,0,1,12.0,74,0,Lost
+L0326,Media,501-1000,661,Cold Outreach,$50k-$100k,Immediate,COO,Southwest,13,6,8,4,1,72.0,97,87804,Won
+L0327,Retail,501-1000,624,Event,$100k+,Immediate,CTO,Southeast,9,6,13,2,0,4.0,43,415218,Won
+L0328,Retail,501-1000,749,Cold Outreach,<$10k,1-3 months,CEO,Northeast,13,6,20,0,0,2.0,108,7275,Won
+L0329,Technology,501-1000,960,Website,<$10k,Immediate,Director Marketing,Southwest,2,1,4,1,0,72.0,113,9754,Won
+L0330,Healthcare,51-200,111,Referral,$50k-$100k,3-6 months,Owner,International,3,1,6,2,0,24.0,69,95850,Won
+L0331,Education,1000+,2262,Trade Show,$100k+,1-3 months,COO,Southeast,0,0,1,5,0,8.0,96,223932,Won
+L0332,Media,501-1000,608,Website,$100k+,3-6 months,COO,Northeast,5,3,20,2,1,24.0,17,316510,Won
+L0333,Education,501-1000,878,Referral,$10k-$50k,3-6 months,CTO,Northeast,14,0,1,5,1,2.0,24,36257,Won
+L0334,Manufacturing,201-500,411,Referral,<$10k,1-3 months,CEO,Southwest,10,7,15,5,0,8.0,48,7308,Won
+L0335,Education,51-200,109,Trade Show,$100k+,1-3 months,VP Sales,Northeast,6,2,5,0,1,24.0,54,107400,Won
+L0336,Consulting,501-1000,648,Content Download,$100k+,Immediate,CEO,International,15,6,4,3,0,4.0,93,314184,Won
+L0337,Finance,1-50,16,Event,$50k-$100k,1-3 months,Owner,West,14,1,0,3,0,12.0,34,98241,Won
+L0338,Manufacturing,1-50,31,Referral,<$10k,Immediate,Director Marketing,Southeast,12,4,12,5,1,2.0,81,6469,Won
+L0339,Media,201-500,273,Content Download,$10k-$50k,Immediate,Director Marketing,International,10,0,4,3,1,12.0,119,27285,Won
+L0340,Real Estate,51-200,163,Partner,$100k+,1-3 months,CTO,International,1,0,5,0,1,8.0,21,286919,Won
+L0341,Consulting,501-1000,945,Content Download,$100k+,Immediate,Sales Manager,Northeast,5,1,16,2,0,0.5,60,454895,Won
+L0342,Healthcare,201-500,366,Website,$50k-$100k,Immediate,VP Operations,Midwest,2,1,15,3,1,0.5,86,97942,Won
+L0343,Transportation,51-200,69,Cold Outreach,<$10k,3-6 months,Director Marketing,Northeast,12,1,12,2,0,4.0,18,0,Lost
+L0344,Technology,51-200,90,LinkedIn,$100k+,6+ months,COO,International,13,4,19,1,0,1.0,69,240760,Won
+L0345,Transportation,1000+,1165,Trade Show,<$10k,6+ months,Director Marketing,Southwest,10,7,7,5,1,2.0,89,9298,Won
+L0346,Real Estate,1-50,20,Content Download,$50k-$100k,1-3 months,Sales Manager,International,1,0,1,4,0,72.0,91,73295,Won
+L0347,Transportation,1-50,12,Webinar,<$10k,Immediate,CFO,Southeast,9,5,18,5,1,48.0,118,6533,Won
+L0348,Transportation,201-500,288,Referral,$100k+,Immediate,VP Sales,West,14,6,19,5,1,8.0,53,165582,Won
+L0349,Finance,1-50,14,Cold Outreach,<$10k,Immediate,CEO,Northeast,13,8,6,0,1,48.0,21,6360,Won
+L0350,Media,501-1000,925,Content Download,<$10k,6+ months,Owner,Southeast,12,0,10,0,0,24.0,101,0,Lost
+L0351,Transportation,1000+,3925,Webinar,$50k-$100k,Immediate,CFO,West,1,0,13,4,1,72.0,60,82426,Won
+L0352,Education,501-1000,725,Trade Show,<$10k,1-3 months,COO,International,7,5,19,5,1,2.0,56,8414,Won
+L0353,Transportation,51-200,91,Event,<$10k,6+ months,Sales Manager,Southeast,13,7,9,1,0,72.0,119,7136,Won
+L0354,Finance,1000+,1917,Website,<$10k,3-6 months,VP Operations,Northeast,15,4,10,2,0,72.0,95,9222,Won
+L0355,Technology,501-1000,760,Content Download,<$10k,Immediate,Owner,Southwest,5,5,3,1,1,2.0,104,9144,Won
+L0356,Finance,201-500,326,Partner,$10k-$50k,Immediate,CEO,West,15,5,9,4,0,1.0,60,26085,Won
+L0357,Consulting,501-1000,984,Cold Outreach,$10k-$50k,6+ months,VP Operations,West,14,2,0,5,1,1.0,105,38447,Won
+L0358,Technology,51-200,192,Website,$50k-$100k,6+ months,VP Operations,International,10,5,0,2,1,2.0,33,95709,Won
+L0359,Real Estate,51-200,83,Event,<$10k,Immediate,CTO,Midwest,6,0,16,4,1,72.0,9,5228,Won
+L0360,Retail,201-500,382,Trade Show,<$10k,Immediate,Director Marketing,Midwest,3,3,9,4,0,48.0,102,9764,Won
+L0361,Consulting,1000+,2546,Cold Outreach,$50k-$100k,3-6 months,COO,International,7,1,10,4,1,4.0,19,77004,Won
+L0362,Healthcare,1-50,5,Trade Show,$10k-$50k,6+ months,CEO,West,12,4,18,3,1,24.0,69,20672,Won
+L0363,Finance,501-1000,984,Content Download,$10k-$50k,Immediate,CEO,West,11,1,19,3,0,1.0,73,17716,Won
+L0364,Education,201-500,225,Event,$100k+,Immediate,Sales Manager,Southeast,9,4,6,1,1,0.5,118,400448,Won
+L0365,Manufacturing,1000+,3606,Content Download,$50k-$100k,6+ months,CFO,International,14,7,14,1,1,12.0,86,65258,Won
+L0366,Education,1000+,4261,Website,$100k+,3-6 months,Director Sales,Southeast,9,8,20,0,1,72.0,76,0,Lost
+L0367,Transportation,1-50,8,Webinar,$10k-$50k,6+ months,CTO,Northeast,8,3,7,5,1,48.0,48,0,Lost
+L0368,Real Estate,1000+,3162,Website,$100k+,Immediate,Director Marketing,West,10,6,8,0,0,1.0,30,260848,Won
+L0369,Real Estate,51-200,127,Website,$50k-$100k,1-3 months,VP Sales,International,4,3,10,2,1,1.0,83,82307,Won
+L0370,Consulting,501-1000,748,Referral,$50k-$100k,Immediate,Director Marketing,West,13,3,0,2,0,4.0,23,76656,Won
+L0371,Healthcare,1000+,4733,Cold Outreach,$10k-$50k,3-6 months,CTO,Southeast,14,0,0,3,1,8.0,14,27911,Won
+L0372,Real Estate,201-500,236,Cold Outreach,$50k-$100k,Immediate,Sales Manager,International,12,1,4,5,1,24.0,109,91626,Won
+L0373,Media,201-500,209,Cold Outreach,$50k-$100k,3-6 months,CEO,West,4,0,19,3,0,0.5,96,85266,Won
+L0374,Healthcare,1000+,4437,Website,$100k+,Immediate,Director Marketing,West,0,0,14,2,0,48.0,104,0,Lost
+L0375,Manufacturing,201-500,219,Cold Outreach,<$10k,3-6 months,CEO,Southeast,6,0,6,5,0,1.0,70,6396,Won
+L0376,Transportation,1000+,3142,LinkedIn,<$10k,1-3 months,Director Sales,Southeast,8,3,0,5,1,72.0,61,5424,Won
+L0377,Manufacturing,1-50,49,Webinar,$100k+,6+ months,Director Marketing,Southwest,13,8,14,2,0,24.0,80,322203,Won
+L0378,Healthcare,51-200,75,Cold Outreach,$10k-$50k,3-6 months,COO,Northeast,0,0,8,1,0,48.0,13,0,Lost
+L0379,Education,1000+,4991,Cold Outreach,<$10k,6+ months,Director Sales,International,1,0,12,2,1,1.0,109,8620,Won
+L0380,Real Estate,1-50,26,Referral,<$10k,Immediate,COO,West,0,0,12,3,1,1.0,107,0,Lost
+L0381,Technology,501-1000,964,Webinar,$50k-$100k,1-3 months,Director Sales,Northeast,4,4,8,2,1,48.0,38,53964,Won
+L0382,Manufacturing,1000+,2264,Trade Show,$50k-$100k,3-6 months,Owner,Southwest,10,4,11,0,1,2.0,113,77660,Won
+L0383,Retail,51-200,170,Cold Outreach,<$10k,3-6 months,CEO,International,10,4,13,2,0,1.0,12,0,Lost
+L0384,Media,51-200,112,Website,$10k-$50k,1-3 months,CFO,Southwest,10,6,6,3,0,0.5,10,17549,Won
+L0385,Media,51-200,95,Partner,<$10k,Immediate,CEO,Southeast,5,2,17,1,0,4.0,19,0,Lost
+L0386,Technology,51-200,112,Trade Show,<$10k,3-6 months,CEO,Midwest,5,4,19,3,1,1.0,23,0,Lost
+L0387,Retail,51-200,113,Webinar,$100k+,3-6 months,Director Marketing,Southwest,6,6,17,2,0,12.0,42,356371,Won
+L0388,Retail,1-50,49,Content Download,<$10k,1-3 months,CTO,West,14,2,10,5,1,72.0,70,8881,Won
+L0389,Transportation,1-50,26,Cold Outreach,$10k-$50k,1-3 months,CFO,Southeast,12,2,11,2,0,2.0,73,25084,Won
+L0390,Media,1000+,2118,Partner,$100k+,6+ months,CFO,West,12,0,5,3,0,8.0,17,386603,Won
+L0391,Healthcare,201-500,303,Cold Outreach,<$10k,Immediate,Director Sales,Midwest,10,4,9,5,1,4.0,116,0,Lost
+L0392,Consulting,201-500,207,Website,$50k-$100k,3-6 months,Director Marketing,West,4,3,7,1,1,4.0,107,97350,Won
+L0393,Education,1-50,29,Partner,$10k-$50k,6+ months,VP Operations,Southeast,4,4,4,2,1,0.5,52,24777,Won
+L0394,Real Estate,1000+,3579,Event,$50k-$100k,Immediate,Owner,Northeast,12,6,6,3,0,72.0,49,91877,Won
+L0395,Healthcare,51-200,98,Referral,$10k-$50k,Immediate,Owner,West,12,4,6,1,1,72.0,73,21260,Won
+L0396,Real Estate,51-200,150,Referral,$10k-$50k,6+ months,CFO,International,6,2,13,5,1,48.0,46,23302,Won
+L0397,Media,201-500,470,Cold Outreach,<$10k,1-3 months,CFO,Northeast,15,7,14,4,0,1.0,65,0,Lost
+L0398,Education,201-500,435,Trade Show,$10k-$50k,6+ months,CEO,Southeast,5,5,18,0,0,0.5,42,0,Lost
+L0399,Consulting,201-500,240,Referral,$10k-$50k,6+ months,VP Operations,Southwest,10,6,14,1,0,4.0,16,34979,Won
+L0400,Real Estate,51-200,85,Trade Show,<$10k,Immediate,COO,Northeast,14,7,14,0,0,72.0,63,0,Lost
+L0401,Finance,501-1000,564,Event,$10k-$50k,1-3 months,VP Sales,Southwest,12,2,2,5,0,8.0,34,44884,Won
+L0402,Technology,1000+,2545,Referral,$100k+,3-6 months,CFO,Northeast,6,1,11,1,0,1.0,8,450722,Won
+L0403,Healthcare,51-200,78,Referral,$10k-$50k,1-3 months,VP Sales,West,6,4,6,4,1,24.0,52,21378,Won
+L0404,Education,1-50,43,Trade Show,$10k-$50k,6+ months,CEO,Northeast,6,3,9,4,0,1.0,115,0,Lost
+L0405,Transportation,51-200,85,Event,<$10k,3-6 months,VP Operations,International,10,7,2,2,0,48.0,36,0,Lost
+L0406,Consulting,1000+,1997,Website,$10k-$50k,Immediate,Owner,Northeast,2,0,4,2,1,8.0,89,25601,Won
+L0407,Media,201-500,213,LinkedIn,$50k-$100k,3-6 months,VP Sales,Southwest,10,5,7,1,1,0.5,38,75001,Won
+L0408,Education,51-200,64,Content Download,<$10k,Immediate,CFO,Northeast,4,0,5,4,0,4.0,66,7551,Won
+L0409,Retail,501-1000,942,LinkedIn,$10k-$50k,3-6 months,COO,Southwest,15,1,11,3,0,2.0,85,20215,Won
+L0410,Real Estate,501-1000,738,Referral,$50k-$100k,1-3 months,CTO,International,14,4,12,4,1,1.0,32,50273,Won
+L0411,Consulting,201-500,451,Content Download,$100k+,6+ months,VP Operations,International,2,1,1,0,0,2.0,39,356178,Won
+L0412,Education,1-50,3,Trade Show,$100k+,1-3 months,CEO,West,4,2,19,3,0,8.0,91,148394,Won
+L0413,Real Estate,501-1000,996,Referral,$10k-$50k,6+ months,Sales Manager,West,12,4,13,5,0,1.0,51,27630,Won
+L0414,Real Estate,201-500,469,Website,$10k-$50k,6+ months,VP Sales,Northeast,9,6,5,1,0,2.0,30,17224,Won
+L0415,Retail,51-200,163,Cold Outreach,<$10k,1-3 months,CEO,Midwest,5,0,9,0,1,1.0,81,6923,Won
+L0416,Healthcare,1-50,7,Website,$50k-$100k,Immediate,Owner,Northeast,12,8,8,3,1,12.0,94,65702,Won
+L0417,Real Estate,501-1000,514,Website,$50k-$100k,3-6 months,Director Sales,Northeast,3,2,7,2,0,48.0,7,0,Lost
+L0418,Education,1-50,39,Partner,<$10k,3-6 months,CFO,Southeast,2,1,13,3,1,1.0,31,6172,Won
+L0419,Consulting,1-50,36,LinkedIn,$100k+,Immediate,COO,International,3,3,17,1,0,4.0,96,0,Lost
+L0420,Healthcare,1-50,50,Trade Show,<$10k,1-3 months,Director Marketing,West,15,1,4,4,1,1.0,35,9718,Won
+L0421,Education,501-1000,558,Trade Show,$100k+,1-3 months,CEO,Midwest,10,3,3,4,1,2.0,80,409361,Won
+L0422,Consulting,51-200,184,Trade Show,$100k+,3-6 months,Director Marketing,International,0,0,10,1,0,4.0,83,448835,Won
+L0423,Technology,1000+,2193,Partner,$50k-$100k,Immediate,COO,International,12,0,10,1,0,4.0,117,97670,Won
+L0424,Manufacturing,51-200,140,Website,$100k+,3-6 months,VP Operations,International,9,4,6,5,1,24.0,108,259422,Won
+L0425,Media,51-200,106,LinkedIn,$100k+,6+ months,COO,Southeast,0,0,18,0,1,2.0,93,0,Lost
+L0426,Finance,1-50,8,Referral,$50k-$100k,6+ months,Sales Manager,Northeast,4,3,7,0,0,4.0,83,0,Lost
+L0427,Finance,501-1000,506,Referral,$100k+,6+ months,COO,International,3,0,3,3,1,72.0,80,490782,Won
+L0428,Healthcare,1000+,1260,LinkedIn,$100k+,6+ months,VP Operations,Midwest,5,3,0,3,1,72.0,15,474210,Won
+L0429,Healthcare,51-200,131,Referral,$10k-$50k,1-3 months,VP Sales,Southwest,6,5,5,0,1,0.5,45,45679,Won
+L0430,Technology,51-200,198,Event,<$10k,3-6 months,CTO,West,11,8,16,1,1,1.0,11,6540,Won
+L0431,Finance,1000+,2044,Webinar,$10k-$50k,3-6 months,COO,Southeast,8,6,20,1,0,48.0,61,45121,Won
+L0432,Manufacturing,51-200,148,Partner,$10k-$50k,6+ months,Sales Manager,Midwest,7,1,8,0,1,1.0,49,33777,Won
+L0433,Finance,51-200,77,Event,<$10k,Immediate,VP Operations,Southeast,9,7,3,4,1,8.0,13,6398,Won
+L0434,Finance,201-500,463,Webinar,$100k+,6+ months,Owner,Southeast,4,1,12,4,1,8.0,54,470559,Won
+L0435,Media,51-200,160,Content Download,$50k-$100k,6+ months,CTO,Midwest,7,4,20,0,0,24.0,88,0,Lost
+L0436,Healthcare,1-50,6,Cold Outreach,<$10k,1-3 months,Owner,Northeast,0,0,16,5,0,48.0,93,0,Lost
+L0437,Consulting,1-50,28,Trade Show,<$10k,1-3 months,VP Sales,International,1,1,5,5,0,2.0,72,0,Lost
+L0438,Education,1-50,8,Trade Show,$100k+,6+ months,Sales Manager,Midwest,3,2,9,3,0,8.0,79,0,Lost
+L0439,Real Estate,51-200,142,Event,<$10k,6+ months,Owner,West,10,4,11,0,0,12.0,52,5072,Won
+L0440,Retail,1-50,1,Webinar,$10k-$50k,6+ months,Director Sales,West,12,5,9,2,0,2.0,63,20605,Won
+L0441,Real Estate,1-50,3,Partner,$10k-$50k,Immediate,CEO,Midwest,10,0,5,5,0,48.0,22,0,Lost
+L0442,Real Estate,501-1000,557,Webinar,$100k+,1-3 months,Director Marketing,West,3,0,4,1,1,72.0,13,0,Lost
+L0443,Education,501-1000,627,Website,$100k+,6+ months,COO,Midwest,4,4,5,1,0,1.0,38,0,Lost
+L0444,Real Estate,51-200,89,Content Download,<$10k,1-3 months,CEO,Southwest,12,0,8,1,0,24.0,117,0,Lost
+L0445,Technology,501-1000,762,Trade Show,$50k-$100k,1-3 months,CEO,Midwest,1,1,3,2,1,8.0,38,61911,Won
+L0446,Technology,1-50,39,Partner,$10k-$50k,3-6 months,CFO,Midwest,15,5,10,2,0,1.0,105,31706,Won
+L0447,Education,1000+,1435,Webinar,$50k-$100k,1-3 months,COO,Southeast,4,4,3,0,0,4.0,16,0,Lost
+L0448,Consulting,1000+,1785,Partner,$50k-$100k,6+ months,CEO,Southwest,13,8,8,4,0,12.0,62,77459,Won
+L0449,Consulting,1-50,37,LinkedIn,$50k-$100k,1-3 months,COO,Northeast,12,7,17,4,0,2.0,78,89794,Won
+L0450,Retail,51-200,182,Website,$10k-$50k,1-3 months,Owner,International,8,4,7,2,1,72.0,75,29126,Won
+L0451,Finance,201-500,201,LinkedIn,$50k-$100k,Immediate,CEO,Southeast,11,5,2,5,1,2.0,48,73296,Won
+L0452,Manufacturing,51-200,192,Event,<$10k,Immediate,VP Operations,International,7,5,8,1,1,2.0,62,8019,Won
+L0453,Media,51-200,97,Content Download,$10k-$50k,1-3 months,CEO,Southwest,5,1,12,5,0,1.0,65,16568,Won
+L0454,Finance,1-50,1,Referral,$100k+,6+ months,VP Sales,Northeast,2,1,4,5,1,0.5,108,277413,Won
+L0455,Healthcare,51-200,173,LinkedIn,$100k+,6+ months,Sales Manager,Midwest,8,8,3,0,0,1.0,120,217604,Won
+L0456,Technology,51-200,108,Trade Show,$100k+,1-3 months,Director Marketing,International,3,3,5,0,0,1.0,16,144461,Won
+L0457,Technology,1000+,4658,LinkedIn,$10k-$50k,6+ months,CTO,Midwest,9,4,11,0,0,48.0,110,0,Lost
+L0458,Healthcare,1-50,29,LinkedIn,$10k-$50k,3-6 months,Sales Manager,West,13,4,4,0,0,2.0,47,0,Lost
+L0459,Media,501-1000,782,Content Download,$100k+,3-6 months,Sales Manager,International,15,8,17,1,0,1.0,80,289639,Won
+L0460,Technology,51-200,140,Website,$50k-$100k,6+ months,Sales Manager,Northeast,4,2,14,1,1,24.0,14,0,Lost
+L0461,Finance,1-50,4,LinkedIn,$100k+,Immediate,VP Operations,Midwest,5,0,4,2,0,1.0,113,346292,Won
+L0462,Finance,1000+,1638,Event,$100k+,6+ months,Director Marketing,West,1,0,19,1,1,2.0,94,0,Lost
+L0463,Media,1000+,4895,Event,$50k-$100k,1-3 months,VP Operations,Southeast,4,1,12,4,0,4.0,78,95378,Won
+L0464,Media,201-500,300,Trade Show,$100k+,1-3 months,VP Sales,Midwest,3,0,11,4,1,0.5,20,105755,Won
+L0465,Manufacturing,51-200,196,Webinar,$10k-$50k,Immediate,CEO,Midwest,15,0,1,2,0,8.0,43,42782,Won
+L0466,Real Estate,201-500,458,LinkedIn,<$10k,3-6 months,VP Operations,International,4,0,18,3,0,0.5,66,5645,Won
+L0467,Retail,51-200,143,LinkedIn,$50k-$100k,6+ months,Sales Manager,Midwest,12,3,6,4,1,1.0,70,59346,Won
+L0468,Consulting,1-50,19,Content Download,<$10k,6+ months,Director Marketing,Southeast,11,5,2,0,0,48.0,39,0,Lost
+L0469,Media,51-200,155,Referral,$100k+,Immediate,Director Marketing,Midwest,10,5,2,5,1,72.0,94,228354,Won
+L0470,Consulting,1-50,37,LinkedIn,<$10k,3-6 months,VP Operations,Southeast,14,1,11,3,0,72.0,17,6476,Won
+L0471,Retail,501-1000,559,Partner,<$10k,3-6 months,Director Marketing,Southwest,14,0,17,1,0,2.0,11,9924,Won
+L0472,Real Estate,501-1000,826,Cold Outreach,<$10k,1-3 months,VP Sales,International,2,0,2,2,1,1.0,118,0,Lost
+L0473,Real Estate,1000+,1813,Cold Outreach,$50k-$100k,1-3 months,VP Sales,Northeast,11,6,15,3,0,24.0,56,89133,Won
+L0474,Healthcare,1000+,2296,LinkedIn,$50k-$100k,3-6 months,VP Sales,Southeast,3,3,8,4,1,0.5,116,91872,Won
+L0475,Healthcare,1-50,39,Cold Outreach,$10k-$50k,6+ months,CTO,Southeast,6,5,18,0,0,12.0,71,0,Lost
+L0476,Healthcare,501-1000,999,Content Download,$100k+,6+ months,Director Marketing,Midwest,10,1,5,3,0,12.0,76,445823,Won
+L0477,Real Estate,201-500,254,Referral,<$10k,Immediate,Director Sales,International,3,3,16,4,0,8.0,106,8724,Won
+L0478,Retail,501-1000,982,Referral,$50k-$100k,6+ months,VP Operations,International,7,4,8,5,0,8.0,60,77168,Won
+L0479,Technology,1-50,37,LinkedIn,$50k-$100k,3-6 months,Director Marketing,Southeast,12,3,19,5,0,0.5,23,76418,Won
+L0480,Consulting,51-200,198,Trade Show,$10k-$50k,Immediate,Sales Manager,Southwest,8,8,5,2,0,1.0,87,20030,Won
+L0481,Consulting,1-50,41,Trade Show,<$10k,1-3 months,CFO,International,7,4,6,4,0,24.0,42,5679,Won
+L0482,Transportation,1-50,19,Referral,$100k+,Immediate,Director Sales,Southeast,15,5,6,3,0,48.0,69,320152,Won
+L0483,Real Estate,201-500,217,Content Download,$10k-$50k,1-3 months,COO,Northeast,10,5,15,4,0,2.0,22,49722,Won
+L0484,Technology,1000+,1900,Webinar,$10k-$50k,1-3 months,Director Marketing,Northeast,2,2,4,2,1,48.0,97,29288,Won
+L0485,Media,501-1000,553,Webinar,$100k+,1-3 months,COO,Southeast,9,2,6,5,1,24.0,102,156391,Won
+L0486,Transportation,501-1000,956,Trade Show,$10k-$50k,3-6 months,Director Marketing,International,8,6,9,4,1,72.0,30,38140,Won
+L0487,Retail,1-50,8,Cold Outreach,$50k-$100k,3-6 months,Sales Manager,Midwest,10,3,14,4,0,4.0,84,64251,Won
+L0488,Consulting,201-500,226,Referral,$100k+,6+ months,Director Marketing,Midwest,15,0,8,3,0,1.0,82,111150,Won
+L0489,Manufacturing,1-50,3,Website,$100k+,3-6 months,Sales Manager,West,0,0,15,0,0,8.0,58,0,Lost
+L0490,Healthcare,1000+,3625,Partner,$100k+,Immediate,VP Operations,Midwest,3,2,19,0,0,4.0,20,189229,Won
+L0491,Healthcare,51-200,63,Partner,<$10k,Immediate,COO,Northeast,10,6,8,5,0,2.0,47,6212,Won
+L0492,Media,1-50,21,Webinar,$10k-$50k,6+ months,CFO,Midwest,9,1,11,4,0,4.0,70,23924,Won
+L0493,Retail,501-1000,940,Trade Show,$10k-$50k,6+ months,Director Sales,Midwest,9,7,20,1,1,1.0,53,39650,Won
+L0494,Retail,501-1000,832,Cold Outreach,<$10k,3-6 months,VP Operations,Southeast,4,3,3,5,0,4.0,41,0,Lost
+L0495,Technology,501-1000,721,Webinar,$100k+,3-6 months,COO,Northeast,4,3,16,3,1,12.0,19,321558,Won
+L0496,Retail,201-500,466,Cold Outreach,$100k+,1-3 months,Owner,Midwest,1,0,3,1,0,0.5,37,244420,Won
+L0497,Retail,1000+,1700,Trade Show,$100k+,6+ months,Director Sales,Southeast,6,2,20,2,1,8.0,71,225105,Won
+L0498,Finance,201-500,443,Referral,$10k-$50k,1-3 months,Director Marketing,West,0,0,8,0,0,0.5,81,0,Lost
+L0499,Technology,501-1000,769,Cold Outreach,$100k+,Immediate,VP Sales,Northeast,5,1,3,0,1,12.0,76,290992,Won
+L0500,Media,1-50,39,Partner,$50k-$100k,3-6 months,CTO,International,0,0,13,1,1,2.0,80,63520,Won
+L0501,Healthcare,51-200,95,Trade Show,<$10k,3-6 months,CTO,West,11,5,12,4,0,8.0,73,7812,Won
+L0502,Transportation,201-500,277,Event,<$10k,Immediate,CFO,International,9,8,5,2,1,8.0,65,5335,Won
+L0503,Healthcare,1-50,43,Content Download,$50k-$100k,Immediate,VP Operations,Midwest,11,4,16,5,0,1.0,100,88353,Won
+L0504,Manufacturing,51-200,149,Website,$100k+,3-6 months,CEO,International,3,2,9,4,0,2.0,48,204598,Won
+L0505,Manufacturing,51-200,196,Trade Show,$10k-$50k,3-6 months,COO,Northeast,12,6,3,1,1,48.0,94,40695,Won
+L0506,Media,501-1000,887,Trade Show,$100k+,Immediate,CTO,Northeast,9,3,18,4,1,2.0,119,305866,Won
+L0507,Finance,501-1000,671,Website,$100k+,6+ months,VP Sales,Northeast,3,2,18,3,1,12.0,81,207512,Won
+L0508,Consulting,51-200,90,Webinar,$100k+,1-3 months,CEO,International,0,0,19,5,0,1.0,119,229607,Won
+L0509,Retail,1-50,8,Content Download,<$10k,6+ months,VP Operations,Northeast,7,4,19,5,0,1.0,30,0,Lost
+L0510,Finance,51-200,76,LinkedIn,$10k-$50k,6+ months,CFO,Midwest,8,6,12,5,0,48.0,10,39955,Won
+L0511,Real Estate,1-50,9,Event,<$10k,6+ months,VP Sales,Midwest,5,2,16,4,0,12.0,72,5514,Won
+L0512,Education,1000+,4437,Partner,$100k+,1-3 months,COO,International,15,6,15,4,0,72.0,23,282502,Won
+L0513,Transportation,1000+,1435,Trade Show,<$10k,Immediate,VP Sales,International,15,7,10,1,0,1.0,56,8441,Won
+L0514,Manufacturing,1-50,41,Website,<$10k,6+ months,Director Marketing,Southwest,14,6,4,5,1,72.0,63,7343,Won
+L0515,Finance,501-1000,518,Webinar,$10k-$50k,Immediate,Owner,Northeast,4,0,11,3,0,12.0,100,42517,Won
+L0516,Transportation,501-1000,719,Webinar,$50k-$100k,3-6 months,Owner,Southwest,12,1,18,0,0,72.0,36,85424,Won
+L0517,Technology,51-200,124,Event,$50k-$100k,6+ months,Director Marketing,Northeast,7,4,12,4,0,72.0,67,52115,Won
+L0518,Real Estate,201-500,232,Cold Outreach,$50k-$100k,Immediate,Sales Manager,Southeast,2,2,19,5,0,12.0,83,81376,Won
+L0519,Manufacturing,1-50,42,Referral,<$10k,6+ months,CTO,Southeast,7,0,1,0,0,72.0,94,0,Lost
+L0520,Technology,1000+,1564,Content Download,<$10k,6+ months,VP Operations,International,3,3,3,4,0,12.0,14,6951,Won
+L0521,Technology,51-200,65,Trade Show,<$10k,Immediate,CEO,Northeast,9,0,10,2,0,8.0,91,0,Lost
+L0522,Healthcare,1-50,48,Referral,$50k-$100k,1-3 months,CFO,International,9,5,17,2,0,72.0,76,53538,Won
+L0523,Real Estate,1000+,3264,Content Download,$50k-$100k,Immediate,CEO,Southeast,6,0,11,5,0,0.5,90,51395,Won
+L0524,Technology,201-500,454,Event,$100k+,3-6 months,Director Sales,Northeast,12,6,14,0,0,4.0,75,383927,Won
+L0525,Education,1-50,47,Partner,$50k-$100k,1-3 months,VP Sales,Midwest,1,0,17,3,1,72.0,79,60652,Won
+L0526,Media,51-200,189,LinkedIn,<$10k,3-6 months,COO,Northeast,12,0,19,2,0,8.0,110,0,Lost
+L0527,Transportation,1-50,29,Referral,$50k-$100k,3-6 months,COO,Southeast,14,0,11,3,1,72.0,17,86139,Won
+L0528,Healthcare,501-1000,576,LinkedIn,$50k-$100k,3-6 months,COO,West,1,0,3,5,0,2.0,81,86268,Won
+L0529,Retail,1-50,46,Event,$50k-$100k,Immediate,Director Marketing,Southwest,2,2,14,0,0,4.0,113,0,Lost
+L0530,Real Estate,1-50,39,Trade Show,$50k-$100k,1-3 months,VP Sales,Midwest,11,7,9,4,0,2.0,26,56962,Won
+L0531,Retail,201-500,396,Webinar,$50k-$100k,1-3 months,VP Operations,Southwest,2,0,7,4,1,72.0,74,80954,Won
+L0532,Consulting,1000+,4272,Content Download,$50k-$100k,3-6 months,CEO,Southwest,11,3,14,2,1,1.0,119,55222,Won
+L0533,Consulting,1000+,4390,Referral,$50k-$100k,6+ months,Owner,Southeast,4,4,7,3,1,2.0,50,55341,Won
+L0534,Real Estate,1000+,2078,LinkedIn,$100k+,1-3 months,Sales Manager,West,15,1,4,0,1,0.5,23,0,Lost
+L0535,Consulting,1000+,2201,Trade Show,$100k+,3-6 months,Sales Manager,West,3,2,10,4,1,1.0,101,430737,Won
+L0536,Media,501-1000,578,Event,$100k+,1-3 months,Sales Manager,International,0,0,20,3,1,12.0,82,255896,Won
+L0537,Media,201-500,274,Website,$100k+,3-6 months,Director Marketing,West,6,3,16,2,1,12.0,22,330118,Won
+L0538,Retail,51-200,87,Event,$50k-$100k,Immediate,CEO,International,5,0,19,0,0,0.5,54,0,Lost
+L0539,Retail,201-500,428,Trade Show,$100k+,1-3 months,CFO,Midwest,15,4,2,1,1,1.0,102,182170,Won
+L0540,Consulting,201-500,467,Event,$100k+,Immediate,Director Marketing,Northeast,1,0,7,1,1,4.0,26,360427,Won
+L0541,Manufacturing,51-200,176,Cold Outreach,<$10k,1-3 months,VP Sales,West,5,0,13,5,1,24.0,51,8966,Won
+L0542,Manufacturing,51-200,190,Event,$100k+,6+ months,VP Operations,Southwest,7,1,9,3,0,12.0,29,159525,Won
+L0543,Education,501-1000,649,LinkedIn,$100k+,6+ months,Owner,West,6,6,13,0,1,12.0,57,236681,Won
+L0544,Technology,201-500,314,Content Download,$10k-$50k,3-6 months,VP Sales,Midwest,5,4,6,5,0,12.0,99,34850,Won
+L0545,Education,201-500,302,Webinar,<$10k,Immediate,CTO,Southeast,12,3,9,1,1,12.0,38,5111,Won
+L0546,Consulting,1-50,19,Webinar,$100k+,6+ months,VP Sales,Southeast,7,0,8,5,0,24.0,101,138739,Won
+L0547,Consulting,501-1000,926,Website,<$10k,1-3 months,Director Sales,International,9,5,13,4,0,8.0,40,9720,Won
+L0548,Real Estate,1-50,45,Cold Outreach,$100k+,3-6 months,CFO,Midwest,0,0,12,2,1,1.0,10,293893,Won
+L0549,Media,1000+,1850,Referral,$50k-$100k,3-6 months,Sales Manager,International,15,3,2,1,0,48.0,104,0,Lost
+L0550,Retail,1-50,22,Content Download,$50k-$100k,6+ months,COO,International,13,0,8,5,0,72.0,47,80236,Won
+L0551,Media,1000+,1055,Webinar,<$10k,Immediate,VP Operations,International,5,4,3,1,0,48.0,120,8474,Won
+L0552,Consulting,501-1000,869,LinkedIn,$100k+,6+ months,VP Sales,Midwest,8,8,10,4,0,2.0,33,231721,Won
+L0553,Media,501-1000,663,Cold Outreach,$50k-$100k,1-3 months,Sales Manager,Southwest,5,1,15,0,0,8.0,19,71694,Won
+L0554,Technology,1000+,1057,Content Download,$10k-$50k,Immediate,Director Marketing,International,6,2,9,3,1,12.0,39,45456,Won
+L0555,Retail,1-50,17,LinkedIn,<$10k,1-3 months,COO,Southeast,12,5,18,4,1,48.0,36,6773,Won
+L0556,Finance,51-200,181,Content Download,<$10k,3-6 months,Director Sales,Northeast,15,5,9,4,0,4.0,56,8886,Won
+L0557,Education,1000+,3007,Referral,$10k-$50k,1-3 months,COO,International,8,1,17,3,1,2.0,66,37792,Won
+L0558,Consulting,51-200,143,Trade Show,$50k-$100k,1-3 months,VP Sales,Southeast,9,5,3,2,1,72.0,11,76102,Won
+L0559,Manufacturing,201-500,289,Website,<$10k,6+ months,Owner,International,3,0,11,0,1,2.0,115,6078,Won
+L0560,Technology,501-1000,929,Website,$50k-$100k,Immediate,CTO,Midwest,10,2,18,5,1,72.0,60,62644,Won
+L0561,Consulting,51-200,101,Event,<$10k,1-3 months,CFO,Northeast,0,0,8,4,1,1.0,96,5705,Won
+L0562,Healthcare,1-50,41,LinkedIn,<$10k,1-3 months,Director Marketing,Southwest,6,5,11,3,0,4.0,117,0,Lost
+L0563,Retail,51-200,86,Event,<$10k,6+ months,COO,Southeast,7,3,8,1,0,8.0,18,0,Lost
+L0564,Media,201-500,280,Partner,$50k-$100k,6+ months,Sales Manager,Northeast,6,5,13,2,1,8.0,71,55947,Won
+L0565,Retail,201-500,444,Cold Outreach,$100k+,3-6 months,VP Sales,Northeast,10,5,18,3,1,0.5,52,349296,Won
+L0566,Education,201-500,296,Referral,$10k-$50k,3-6 months,COO,Southeast,14,7,18,4,1,24.0,38,34459,Won
+L0567,Media,501-1000,989,Event,<$10k,1-3 months,CTO,Northeast,12,0,5,4,0,8.0,74,0,Lost
+L0568,Retail,1000+,2621,LinkedIn,$10k-$50k,3-6 months,VP Sales,Northeast,5,3,0,5,0,4.0,17,25478,Won
+L0569,Healthcare,51-200,76,LinkedIn,$50k-$100k,Immediate,CFO,Southeast,12,3,15,5,1,48.0,19,70863,Won
+L0570,Real Estate,201-500,214,Event,$100k+,6+ months,CTO,Northeast,5,1,11,2,0,72.0,103,220624,Won
+L0571,Finance,501-1000,835,Cold Outreach,<$10k,1-3 months,COO,West,13,2,9,2,1,48.0,60,0,Lost
+L0572,Finance,51-200,76,Trade Show,<$10k,6+ months,Director Sales,Midwest,0,0,10,1,1,72.0,69,0,Lost
+L0573,Real Estate,501-1000,758,Website,$50k-$100k,6+ months,COO,International,15,5,17,2,0,2.0,56,50455,Won
+L0574,Transportation,201-500,263,Cold Outreach,$100k+,6+ months,VP Sales,West,14,5,1,4,1,12.0,44,193705,Won
+L0575,Manufacturing,201-500,258,Trade Show,<$10k,6+ months,Director Marketing,Midwest,1,1,7,1,0,72.0,88,0,Lost
+L0576,Media,501-1000,735,Event,$50k-$100k,6+ months,Owner,Southeast,2,1,11,0,0,1.0,17,0,Lost
+L0577,Education,201-500,422,Trade Show,$100k+,Immediate,Sales Manager,International,6,4,8,2,0,0.5,104,461162,Won
+L0578,Finance,201-500,203,Webinar,<$10k,6+ months,Sales Manager,International,0,0,4,2,0,48.0,47,0,Lost
+L0579,Healthcare,51-200,124,Cold Outreach,<$10k,3-6 months,CEO,Northeast,10,8,12,3,1,0.5,112,8640,Won
+L0580,Media,51-200,197,Webinar,$10k-$50k,6+ months,COO,West,11,1,6,5,1,12.0,64,0,Lost
+L0581,Media,1-50,27,LinkedIn,$10k-$50k,3-6 months,Owner,West,15,3,12,4,0,24.0,19,0,Lost
+L0582,Real Estate,51-200,153,Cold Outreach,<$10k,3-6 months,Sales Manager,Southeast,6,3,19,2,0,12.0,94,0,Lost
+L0583,Education,1000+,4786,Webinar,$100k+,1-3 months,VP Operations,West,14,2,5,3,1,0.5,66,404169,Won
+L0584,Real Estate,501-1000,807,Trade Show,$10k-$50k,Immediate,Owner,Southeast,13,0,10,4,0,2.0,18,11488,Won
+L0585,Real Estate,1000+,4838,Webinar,$10k-$50k,1-3 months,CFO,Midwest,6,2,4,2,0,0.5,38,39075,Won
+L0586,Media,1000+,1132,Referral,$50k-$100k,1-3 months,CEO,West,13,8,15,3,0,24.0,75,92407,Won
+L0587,Technology,501-1000,705,Content Download,<$10k,3-6 months,VP Operations,International,14,6,3,0,0,8.0,108,5915,Won
+L0588,Education,51-200,69,Cold Outreach,$100k+,1-3 months,COO,Northeast,15,3,8,2,1,48.0,40,118740,Won
+L0589,Finance,51-200,143,Webinar,$50k-$100k,Immediate,CEO,Midwest,5,4,20,2,1,48.0,110,89809,Won
+L0590,Real Estate,201-500,207,Cold Outreach,<$10k,1-3 months,Owner,Midwest,12,7,19,1,1,2.0,73,8066,Won
+L0591,Finance,1000+,2266,Content Download,$10k-$50k,6+ months,VP Operations,Northeast,6,1,4,2,1,1.0,65,10799,Won
+L0592,Retail,51-200,68,Partner,<$10k,6+ months,Director Sales,Midwest,2,0,14,4,1,4.0,30,0,Lost
+L0593,Retail,51-200,122,Content Download,$10k-$50k,Immediate,Owner,Midwest,2,0,16,2,0,4.0,81,0,Lost
+L0594,Media,501-1000,543,Referral,<$10k,3-6 months,Director Sales,Southeast,6,0,17,4,0,48.0,62,5913,Won
+L0595,Transportation,1000+,3077,Content Download,<$10k,3-6 months,VP Operations,Southwest,15,8,9,5,0,8.0,42,9597,Won
+L0596,Media,1-50,31,LinkedIn,$100k+,Immediate,Director Marketing,Southwest,13,4,3,3,1,72.0,20,363077,Won
+L0597,Manufacturing,201-500,280,Webinar,$100k+,Immediate,COO,Southwest,6,6,12,1,0,2.0,67,241234,Won
+L0598,Retail,201-500,362,Content Download,$50k-$100k,3-6 months,Sales Manager,Midwest,13,6,13,0,0,0.5,110,67970,Won
+L0599,Retail,51-200,148,Event,$50k-$100k,3-6 months,VP Sales,Midwest,6,6,6,4,1,48.0,38,97372,Won
+L0600,Transportation,501-1000,552,Website,$100k+,6+ months,CEO,Midwest,10,4,17,2,0,8.0,102,316938,Won
