@@ -11,8 +11,6 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, confusion_matrix, classification_report
-import matplotlib.pyplot as plt
-import seaborn as sns
 import joblib
 
 # Load data
@@ -135,67 +133,6 @@ print("  - lead_scoring_model.pkl")
 print("  - lead_scoring_scaler.pkl")
 print("  - lead_scoring_encoders.pkl")
 print("  - feature_columns.pkl")
-
-# Create visualizations
-print("\n" + "="*60)
-print("GENERATING VISUALIZATIONS")
-print("="*60)
-
-# 1. Feature Importance Plot
-plt.figure(figsize=(10, 6))
-top_features = feature_importance.head(10).sort_values('Coefficient')
-plt.barh(range(len(top_features)), top_features['Coefficient'])
-plt.yticks(range(len(top_features)), [f.replace('_encoded', '') for f in top_features['Feature']])
-plt.xlabel('Coefficient Magnitude (Importance)')
-plt.title('Top 10 Most Important Features for Lead Scoring', fontsize=14, fontweight='bold')
-plt.tight_layout()
-plt.savefig('feature_importance.png', dpi=300, bbox_inches='tight')
-print("  ✓ Saved feature_importance.png")
-
-# 2. ROC Curve
-from sklearn.metrics import roc_curve
-fpr, tpr, thresholds = roc_curve(y_test, y_pred_proba)
-
-plt.figure(figsize=(8, 6))
-plt.plot(fpr, tpr, color='blue', lw=2, label=f'ROC curve (AUC = {roc_auc_score(y_test, y_pred_proba):.3f})')
-plt.plot([0, 1], [0, 1], color='gray', lw=1, linestyle='--', label='Random Classifier')
-plt.xlim([0.0, 1.0])
-plt.ylim([0.0, 1.05])
-plt.xlabel('False Positive Rate')
-plt.ylabel('True Positive Rate')
-plt.title('ROC Curve - Lead Scoring Model', fontsize=14, fontweight='bold')
-plt.legend(loc="lower right")
-plt.grid(alpha=0.3)
-plt.tight_layout()
-plt.savefig('roc_curve.png', dpi=300, bbox_inches='tight')
-print("  ✓ Saved roc_curve.png")
-
-# 3. Probability Distribution
-plt.figure(figsize=(10, 6))
-won_leads = y_pred_proba[y_test == 1]
-lost_leads = y_pred_proba[y_test == 0]
-
-plt.hist(lost_leads, bins=30, alpha=0.6, label='Lost Leads', color='red', edgecolor='black')
-plt.hist(won_leads, bins=30, alpha=0.6, label='Won Leads', color='green', edgecolor='black')
-plt.xlabel('Predicted Probability of Winning')
-plt.ylabel('Number of Leads')
-plt.title('Distribution of Predicted Win Probabilities', fontsize=14, fontweight='bold')
-plt.legend()
-plt.grid(alpha=0.3)
-plt.tight_layout()
-plt.savefig('probability_distribution.png', dpi=300, bbox_inches='tight')
-print("  ✓ Saved probability_distribution.png")
-
-# 4. Confusion Matrix Heatmap
-plt.figure(figsize=(8, 6))
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', cbar=False,
-            xticklabels=['Lost', 'Won'], yticklabels=['Lost', 'Won'])
-plt.title('Confusion Matrix', fontsize=14, fontweight='bold')
-plt.ylabel('Actual Outcome')
-plt.xlabel('Predicted Outcome')
-plt.tight_layout()
-plt.savefig('confusion_matrix.png', dpi=300, bbox_inches='tight')
-print("  ✓ Saved confusion_matrix.png")
 
 print("\n" + "="*60)
 print("MODEL TRAINING COMPLETE!")
