@@ -240,6 +240,7 @@ If applied to 1,000 annual leads:
 Loyola University Chicago - Quinlan School of Business  
 Major: Marketing + Information Systems & Analytics  
 Minor: Business of Applied AI  
+Email: sotoaceves@gmail.com
 
 Looking for **Summer 2026 Sales Operations internships** in Chicago!
 
