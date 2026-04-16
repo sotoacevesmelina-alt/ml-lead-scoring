@@ -13,7 +13,7 @@ import plotly.express as px
 
 # Page config
 st.set_page_config(
-    page_title="ML Lead Scoring System",
+    page_title="PredictAI Lead",
     page_icon="🎯",
     layout="wide"
 )
@@ -30,7 +30,7 @@ def load_model():
 model, scaler, encoders, feature_cols = load_model()
 
 # Title and description
-st.title("🎯 ML Lead Scoring System")
+st.title("🎯 PredictAI Lead")
 st.markdown("""
 **Predict lead close probability using machine learning**  
 Enter lead information below to get an instant score and prioritization recommendation.
@@ -296,4 +296,4 @@ with st.sidebar:
 
 # Footer
 st.divider()
-st.caption("ML Lead Scoring System v1.0 | Built with Python, scikit-learn, and Streamlit")
+st.caption("PredictAI Lead v1.0 | Built with Python, scikit-learn, and Streamlit")
