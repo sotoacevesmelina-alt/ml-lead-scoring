@@ -29,11 +29,23 @@ def load_model():
 
 model, scaler, encoders, feature_cols = load_model()
 
+st.markdown("""
+### Understanding AI-Powered Lead Scoring
+
+This tool demonstrates how machine learning can predict which sales leads are most likely to convert.
+
+**How it works:** The model analyzes historical patterns in company size, engagement signals, and deal velocity to predict conversion probability with 82.5% accuracy.
+
+Use this tool to see AI in action for sales prioritization.
+""")
+
+st.divider()
+
 # Title and description
 st.title("🎯 PredictAI Lead")
 st.markdown("""
-**Predict lead close probability using machine learning**  
-Enter lead information below to get an instant score and prioritization recommendation.
+**Enter lead details below** to generate an AI-powered score. The model weighs each input against patterns
+learned from 600 historical B2B SaaS deals — giving your sales team an objective, data-driven priority ranking.
 """)
 
 st.divider()
@@ -97,6 +109,7 @@ st.divider()
 
 # Engagement metrics
 st.subheader("Engagement Metrics")
+st.caption("Behavioral signals are among the strongest predictors of conversion. The model learned this from historical deal data — leads who view pricing pages and click emails close at significantly higher rates.")
 col3, col4, col5 = st.columns(3)
 
 with col3:
@@ -252,7 +265,8 @@ if st.button("🚀 Calculate Lead Score", type="primary", use_container_width=Tr
         """)
     
     # Key factors
-    st.subheader("🔍 Key Influencing Factors")
+    st.subheader("🔍 Why Did the Model Score It This Way?")
+    st.markdown("These are the features with the most influence on your result. Higher-impact factors carry more weight in the logistic regression — meaning small changes here shift the score significantly.")
     
     factors_df = pd.DataFrame({
         'Factor': ['Pricing Page Views', 'Budget Range', 'Demo Requested', 
@@ -286,14 +300,15 @@ with st.sidebar:
     
     st.subheader("About This Model")
     st.markdown("""
-    This lead scoring system uses **Logistic Regression** 
-    trained on 600 historical B2B SaaS leads.
-    
-    **Built by:** Melina  
-    **Institution:** Loyola University Chicago  
-    **Purpose:** Sales Operations Portfolio Project
+    This tool uses **Logistic Regression** — a classification algorithm that outputs a probability
+    between 0 and 1. It was trained on 600 historical B2B SaaS deals, learning which combinations
+    of company profile and engagement behavior predict a closed-won outcome.
+
+    **Why Logistic Regression?** It's highly interpretable — each feature has a coefficient that
+    directly explains its contribution to the score, making it easy to understand and trust for
+    sales decision-making.
     """)
 
 # Footer
 st.divider()
-st.caption("PredictAI Lead v1.0 | Built with Python, scikit-learn, and Streamlit")
+st.markdown("**Built by:** Melina Soto Aceves")
